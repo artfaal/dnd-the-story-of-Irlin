@@ -9,7 +9,7 @@ location: northern-keller
 relation: нейтральный
 first_seen: '2026-03-07'
 tags:
-- академия
+- академия-магии
 - ученик
 - арена
 - самовзрыв

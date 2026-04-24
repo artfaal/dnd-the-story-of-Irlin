@@ -6,7 +6,7 @@ status: активный
 priority: побочный
 location: northern-keller
 tags:
-- кольца
+- кольцо
 - призраки
 - семья-файрмей
 - опознание

@@ -784,3 +784,177 @@
 - test suite: 39 tests passing (from 0 — bootstrap'd from scratch)
 - skill snapshot at ~/.openclaw.pre-hardening-20260424-1324 (rollback path)
 - e2e audit-replay verified: all 4 original bugs caught; 2 auto-fixable
+
+## [2026-04-24 14:20] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 14:20] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 14:38] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 14:38] sync-state | state=clean
+- state body drift: False
+- state frontmatter drift: False
+- campaign drift: False
+
+## [2026-04-24 14:38] rebuild | index.md
+- NPCs: 33
+- Quests: 22
+- Locations: 7
+- Sessions: 5
+- Characters: 5
+- Items: 0
+- Rules: 3
+- Total: 75
+
+## [2026-04-24 14:49] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 14:49] rebuild | index.md
+- NPCs: 33
+- Quests: 22
+- Locations: 7
+- Sessions: 5
+- Characters: 5
+- Items: 0
+- Rules: 3
+- Total: 75
+
+## [2026-04-24 14:49] sync-state | state=clean
+- state body drift: False
+- state frontmatter drift: False
+- campaign drift: False
+
+## [2026-04-24 14:56] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 14:58] rebuild | index.md
+- NPCs: 33
+- Quests: 22
+- Locations: 7
+- Sessions: 5
+- Characters: 5
+- Items: 0
+- Rules: 3
+- Total: 75
+
+## [2026-04-24 14:58] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 15:15] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 15:15] rebuild | index.md
+- NPCs: 33
+- Quests: 22
+- Locations: 7
+- Sessions: 5
+- Characters: 5
+- Items: 0
+- Rules: 3
+- Total: 75
+
+## [2026-04-24 15:15] sync-state | state=clean
+- state body drift: False
+- state frontmatter drift: False
+- campaign drift: False

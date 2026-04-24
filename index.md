@@ -52,7 +52,7 @@
 - [Поговорить с Гидеоном Самблео](quests/gideon-talk.md) — ⚪ побочный
 - [Опознать кольца с призраков](quests/identify-rings.md) — ⚪ побочный
 - [Разрушенный корабль в Ирлинском лесу](quests/ship-irlin-forest.md) — ⚪ побочный
-- [Камень пчелы/шершня](quests/stone-bee.md) — ⚪ побочный
+- [Камень с шершнем](quests/stone-bee.md) — ⚪ побочный
 ### Completed
 - [Статья для Ирвина Дандрича](quests/statya-irvin.md)
 - [Подземелье под руинами (кемп орков)](quests/dungeon-ruins.md)
