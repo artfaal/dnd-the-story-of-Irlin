@@ -4,10 +4,16 @@ name: Загадка обелисков и жаровень
 slug: obelisks-mystery
 status: активный
 priority: основной
-giver: ~
+giver: null
 location: temple-ilmater
-related_npcs: [liana]
-tags: [храм-ильматера, обелиски, жаровни, мистерия]
+related_npcs:
+- liana
+tags:
+- храм-ильматера
+- обелиски
+- жаровни
+- мистерия
+updated: '2026-04-24'
 ---
 
 ## Задача

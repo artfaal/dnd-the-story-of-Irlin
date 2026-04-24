@@ -7,13 +7,17 @@ role: Жрица храма Ильматера
 status: жив
 location: temple-ilmater
 relation: союзник
-first_seen: "Сессия 1"
-tags: [храм-ильматера, жрица, ильматер]
+first_seen: Сессия 1
+tags:
+- храм-ильматера
+- жрица
+- ильматер
 relations:
-  - npc: lander
-    type: коллега (защитник того же храма)
-  - npc: lala-enshein
-    type: коллега (библиотекарша)
+- npc: lander
+  type: коллега (защитник того же храма)
+- npc: lala-enshein
+  type: коллега (библиотекарша)
+updated: '2026-04-24'
 ---
 
 ## Внешность

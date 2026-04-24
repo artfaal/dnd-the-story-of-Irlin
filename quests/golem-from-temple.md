@@ -3,12 +3,16 @@ type: quest
 name: Забрать гомункула
 slug: golem-from-temple
 status: заморожен
-found: "Сессия 2 (18.01.2026) — на побережье Ирлин"
+found: Сессия 2 (18.01.2026) — на побережье Ирлин
 priority: побочный
 giver: Лиана
 location: temple-ilmater
-related_npcs: [liana]
-tags: [гомункул, храм-ильматера]
+related_npcs:
+- liana
+tags:
+- гомункул
+- храм-ильматера
+updated: '2026-04-24'
 ---
 
 ## Предыстория

@@ -4,10 +4,16 @@ name: Найти академию магии
 slug: find-magic-academy
 status: частично выполнен
 priority: побочный
-giver: ~
+giver: null
 location: northern-keller
-related_npcs: [rouen]
-tags: [академия-магии, огненные-ладони, северный-келлер, роуэн]
+related_npcs:
+- rouen
+tags:
+- академия-магии
+- огненные-ладони
+- северный-келлер
+- роуэн
+updated: '2026-04-24'
 ---
 
 ## Задача

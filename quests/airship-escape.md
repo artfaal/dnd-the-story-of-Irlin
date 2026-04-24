@@ -5,7 +5,12 @@ slug: airship-escape
 status: активный
 priority: основной
 location: northern-keller
-tags: [воздушный-шар, побег, демиплан, алигары]
+tags:
+- воздушный-шар
+- побег
+- демиплан
+- алигары
+updated: '2026-04-24'
 ---
 
 ## Суть

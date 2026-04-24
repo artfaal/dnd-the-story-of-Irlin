@@ -7,10 +7,16 @@ role: Хозяйка чайной
 status: жив
 location: northern-keller
 relation: нейтральный
-first_seen: "Северный Келлер"
+first_seen: Северный Келлер
 portrait: assets/npcs/lyubava.jpg
-tags: [северный-келлер, чайная, торговля, осы, подозрительная]
+tags:
+- северный-келлер
+- чайная
+- торговля
+- осы
+- подозрительная
 relations: []
+updated: '2026-04-24'
 ---
 
 ## Внешность

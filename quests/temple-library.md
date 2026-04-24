@@ -4,10 +4,15 @@ name: Библиотека храма
 slug: temple-library
 status: выполнен
 priority: побочный
-giver: ~
+giver: null
 location: temple-ilmater
-related_npcs: [lala-enshein]
-tags: [библиотека, храм-ильматера, лала-эншейн]
+related_npcs:
+- lala-enshein
+tags:
+- библиотека
+- храм-ильматера
+- лала-эншейн
+updated: '2026-04-24'
 ---
 
 ## Задача

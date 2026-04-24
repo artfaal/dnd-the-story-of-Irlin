@@ -6,8 +6,14 @@ type_loc: лес
 region: Острова Ирлин
 status: частично исследована
 map: assets/maps/irlin-forest.jpg
-related_npcs: [gideon-sambleo]
-tags: [ирлин, лес, ферма-самблео, природа]
+related_npcs:
+- gideon-sambleo
+tags:
+- ирлин
+- лес
+- ферма-самблео
+- природа
+updated: '2026-04-24'
 ---
 
 ## Описание

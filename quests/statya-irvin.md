@@ -6,9 +6,17 @@ status: выполнен
 priority: СРОЧНО
 giver: Ирвин Дандрич
 location: irlin-forest
-deadline: "Завтра (по игровому времени) в 12:00"
-related_npcs: [irvin-dandrich, enrike-gonzales]
-tags: [ирлинский-лес, горный-лесник, статья, берсер-трант, срочно]
+deadline: Завтра (по игровому времени) в 12:00
+related_npcs:
+- irvin-dandrich
+- enrike-gonzales
+tags:
+- ирлинский-лес
+- горный-лесник
+- статья
+- берсер-трант
+- срочно
+updated: '2026-04-24'
 ---
 
 ## ⚠️ ПОСЛЕДНИЙ ШАГ — дедлайн ЗАВТРА в 12:00 (игровое время)

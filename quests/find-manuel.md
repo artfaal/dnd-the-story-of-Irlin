@@ -5,8 +5,15 @@ slug: find-manuel
 status: активный
 priority: побочный
 location: island-boloto
-related_npcs: [manuel, zhenevyeva]
-tags: [мануэль, остров-болото, первая-группа, женевьева]
+related_npcs:
+- manuel
+- zhenevyeva
+tags:
+- мануэль
+- остров-болото
+- первая-группа
+- женевьева
+updated: '2026-04-24'
 ---
 
 ## Суть

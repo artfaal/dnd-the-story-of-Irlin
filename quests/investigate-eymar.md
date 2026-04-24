@@ -6,9 +6,15 @@ status: активный
 priority: основной
 next_session: false
 location: неизвестно
-tags: [эймар, загадочный-маг, амулет, лиана, демиплан]
+tags:
+- эймар
+- загадочный-маг
+- амулет
+- лиана
+- демиплан
 created_session: 5
 created_date: 2026-03-28
+updated: '2026-04-24'
 ---
 
 ## Суть

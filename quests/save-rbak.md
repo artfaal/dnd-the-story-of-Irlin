@@ -6,7 +6,12 @@ status: выполнен
 priority: побочный
 location: northern-keller
 quest_giver: ldap
-tags: [орки, заброшенная-лесопилка, выкуп, дворф]
+tags:
+- орки
+- заброшенная-лесопилка
+- выкуп
+- дворф
+updated: '2026-04-24'
 ---
 
 ## Суть

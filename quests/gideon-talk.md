@@ -4,10 +4,15 @@ name: Поговорить с Гидеоном Самблео
 slug: gideon-talk
 status: активный
 priority: побочный
-giver: ~
+giver: null
 location: irlin-forest
-related_npcs: [gideon-sambleo]
-tags: [ирлиндский-лес, гидеон, самблео]
+related_npcs:
+- gideon-sambleo
+tags:
+- ирлиндский-лес
+- гидеон
+- самблео
+updated: '2026-04-24'
 ---
 
 ## Задача

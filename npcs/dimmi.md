@@ -7,11 +7,15 @@ role: Капитан корабля Гейзенберг
 status: жив
 location: ship-geizenberg
 relation: нейтральный
-first_seen: "Сессия 1 (корабль)"
-tags: [гейзенберг, корабль, капитан]
+first_seen: Сессия 1 (корабль)
+tags:
+- гейзенберг
+- корабль
+- капитан
 relations:
-  - npc: rainhard
-    type: подчинённый (помощник капитана)
+- npc: rainhard
+  type: подчинённый (помощник капитана)
+updated: '2026-04-24'
 ---
 
 ## Внешность

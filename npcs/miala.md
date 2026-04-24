@@ -7,11 +7,16 @@ role: Превращена в камень
 status: неизвестно
 location: temple-ilmater
 relation: нейтральный
-first_seen: "Склеп храма"
-tags: [храм-ильматера, склеп, алистер, камень]
+first_seen: Склеп храма
+tags:
+- храм-ильматера
+- склеп
+- алистер
+- камень
 relations:
-  - npc: alister
-    type: враг (судя по записке)
+- npc: alister
+  type: враг (судя по записке)
+updated: '2026-04-24'
 ---
 
 ## Внешность

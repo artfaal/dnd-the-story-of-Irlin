@@ -5,10 +5,14 @@ slug: luskan
 type_loc: город
 region: Материк (Север Фаэруна)
 status: неизвестна
-visited: ~
-map: ~
+visited: null
+map: null
 related_npcs: []
-tags: [лускан, цель, материк]
+tags:
+- лускан
+- цель
+- материк
+updated: '2026-04-24'
 ---
 
 ## Описание

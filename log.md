@@ -48,3 +48,92 @@
 - check taxonomy
 - check temporal
 - check unique-slug
+
+## [2026-04-24 10:42] summary | pre-session
+- last=1
+- full=False
+
+## [2026-04-24 10:42] summary | pre-session
+- last=1
+- full=False
+
+## [2026-04-24 10:42] note | plain Phase 2 verification note
+
+## [2026-04-24 10:42] summary | pre-session
+- last=1
+- full=False
+
+## [2026-04-24 10:42] rebuild | index.md
+- NPCs: 33
+- Quests: 22
+- Locations: 7
+- Sessions: 5
+- Characters: 5
+- Items: 0
+- Rules: 0
+- Total: 72
+
+## [2026-04-24 10:42] lint | 371 errors, 291 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+
+## [2026-04-24 10:58] lint | 371 errors, 291 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+
+## [2026-04-24 11:01] rebuild | index.md
+- NPCs: 33
+- Quests: 22
+- Locations: 7
+- Sessions: 5
+- Characters: 5
+- Items: 0
+- Rules: 3
+- Total: 75
+
+## [2026-04-24 11:01] lint | 296 errors, 291 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+
+## [2026-04-24 11:01] lint | 0 errors, 1 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+
+## [2026-04-24 11:02] lint | 0 errors, 1 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug

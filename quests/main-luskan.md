@@ -3,12 +3,16 @@ type: quest
 name: Путь в Лускан
 slug: main-luskan
 status: активный
-blocker: "Кракен + изоляция на островах Ирлин"
+blocker: Кракен + изоляция на островах Ирлин
 priority: главный
-giver: ~
+giver: null
 location: irlin-islands
 related_npcs: []
-tags: [главный-квест, лускан, путешествие]
+tags:
+- главный-квест
+- лускан
+- путешествие
+updated: '2026-04-24'
 ---
 
 ## Задача

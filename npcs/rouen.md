@@ -7,12 +7,17 @@ role: Жена Майкла. Беременная (9-й месяц).
 status: жив
 location: northern-keller
 relation: нейтральный
-first_seen: "Сессия 3 (2026-03-07)"
+first_seen: Сессия 3 (2026-03-07)
 portrait: assets/npcs/rouan.jpg
-tags: [северный-келлер, академия-магии, беременная, электричество]
+tags:
+- северный-келлер
+- академия-магии
+- беременная
+- электричество
 relations:
-  - npc: michael
-    type: жена
+- npc: michael
+  type: жена
+updated: '2026-04-24'
 ---
 
 ## Внешность

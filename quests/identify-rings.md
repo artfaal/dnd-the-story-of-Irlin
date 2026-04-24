@@ -5,7 +5,12 @@ slug: identify-rings
 status: активный
 priority: побочный
 location: northern-keller
-tags: [кольца, призраки, семья-файрмей, опознание]
+tags:
+- кольца
+- призраки
+- семья-файрмей
+- опознание
+updated: '2026-04-24'
 ---
 
 ## Суть

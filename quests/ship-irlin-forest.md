@@ -5,7 +5,10 @@ slug: ship-irlin-forest
 status: активный
 priority: побочный
 location: Ирлинский лес
-tags: [корабль, ирлинский-лес]
+tags:
+- корабль
+- ирлинский-лес
+updated: '2026-04-24'
 ---
 
 ## Описание

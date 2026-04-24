@@ -6,9 +6,14 @@ status: активный
 priority: основной
 next_session: false
 location: northern-keller-ruins
-tags: [алтарь, карта, прорицание, катакомбы]
+tags:
+- алтарь
+- карта
+- прорицание
+- катакомбы
 created_session: 5
 created_date: 2026-03-28
+updated: '2026-04-24'
 ---
 
 ## Суть

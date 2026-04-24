@@ -6,8 +6,14 @@ status: выполнен
 priority: основной
 giver: Лиана
 location: temple-ilmater
-related_npcs: [liana, lander]
-tags: [ирлин, храм, защитник]
+related_npcs:
+- liana
+- lander
+tags:
+- ирлин
+- храм
+- защитник
+updated: '2026-04-24'
 ---
 
 ## Задача

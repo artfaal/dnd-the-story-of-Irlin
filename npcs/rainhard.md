@@ -7,11 +7,14 @@ role: Помощник капитана Гейзенберга
 status: жив
 location: ship-geizenberg
 relation: нейтральный
-first_seen: "Сессия 1 (корабль)"
-tags: [гейзенберг, корабль]
+first_seen: Сессия 1 (корабль)
+tags:
+- гейзенберг
+- корабль
 relations:
-  - npc: dimmi
-    type: капитан (начальник)
+- npc: dimmi
+  type: капитан (начальник)
+updated: '2026-04-24'
 ---
 
 ## Внешность

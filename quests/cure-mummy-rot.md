@@ -6,9 +6,15 @@ status: активный
 priority: основной
 next_session: true
 location: temple-ilmater
-tags: [проклятие, mummy-rot, торвин, храм-ильматера, лиана]
+tags:
+- проклятие
+- mummy-rot
+- торвин
+- храм-ильматера
+- лиана
 created_session: 5
 created_date: 2026-03-28
+updated: '2026-04-24'
 ---
 
 ## Суть

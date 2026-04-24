@@ -6,8 +6,14 @@ status: активный
 priority: основной
 giver: Майкл
 location: northern-keller
-related_npcs: [rouen]
-tags: [северный-келлер, академия, лускан, выход-с-острова]
+related_npcs:
+- rouen
+tags:
+- северный-келлер
+- академия
+- лускан
+- выход-с-острова
+updated: '2026-04-24'
 ---
 
 ## Задача

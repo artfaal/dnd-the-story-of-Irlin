@@ -5,10 +5,20 @@ slug: temple-ilmater
 type_loc: temple
 region: Острова Ирлин (Побережье)
 status: исследована
-visited: "Сессия 1"
+visited: Сессия 1
 map: assets/maps/coast-temple-ilmater.jpg
-related_npcs: [liana, lander, lala-enshein, miala]
-tags: [ирлин, побережье, храм, ильматер, мистерия]
+related_npcs:
+- liana
+- lander
+- lala-enshein
+- miala
+tags:
+- ирлин
+- побережье
+- храм
+- ильматер
+- мистерия
+updated: '2026-04-24'
 ---
 
 ## Описание

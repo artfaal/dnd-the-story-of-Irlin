@@ -6,7 +6,13 @@ status: выполнен
 priority: побочный
 location: northern-keller
 quest_giver: babushka-lyubava
-tags: [северный-келлер, бабушка-любава, осы, пасечник, побочный]
+tags:
+- северный-келлер
+- бабушка-любава
+- осы
+- пасечник
+- побочный
+updated: '2026-04-24'
 ---
 
 ## Суть

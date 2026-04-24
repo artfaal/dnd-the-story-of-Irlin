@@ -5,10 +5,16 @@ slug: ship-geizenberg
 type_loc: корабль (обломки)
 region: Побережье Ирлина
 status: исследована
-visited: "Сессия 1"
-map: ~
-related_npcs: [dimmi, rainhard]
-tags: [корабль, гейзенберг, крушение]
+visited: Сессия 1
+map: null
+related_npcs:
+- dimmi
+- rainhard
+tags:
+- корабль
+- гейзенберг
+- крушение
+updated: '2026-04-24'
 ---
 
 ## Описание

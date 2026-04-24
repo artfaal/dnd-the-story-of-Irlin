@@ -5,8 +5,17 @@ slug: katastras
 status: активный
 priority: основной
 location: болота у водопада
-related_npcs: [bastian, zhenevyeva, manuel]
-tags: [катастрас, болота, водопад, первая-группа, проход]
+related_npcs:
+- bastian
+- zhenevyeva
+- manuel
+tags:
+- катастрас
+- болота
+- водопад
+- первая-группа
+- проход
+updated: '2026-04-24'
 ---
 
 ## Суть

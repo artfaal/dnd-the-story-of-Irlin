@@ -6,9 +6,14 @@ status: выполнен
 priority: основной
 next_session: false
 location: northern-keller-ruins
-tags: [руины, кемп-орков, подземелье, катакомбы]
+tags:
+- руины
+- кемп-орков
+- подземелье
+- катакомбы
 completed_session: 5
 completed_date: 2026-03-28
+updated: '2026-04-24'
 ---
 
 ## Суть

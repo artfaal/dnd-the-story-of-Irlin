@@ -5,8 +5,14 @@ slug: prizrak-ogon
 status: выполнен
 priority: побочный
 location: coast-irlin
-related_npcs: [zhanna-luiza, margarita]
-tags: [побережье, призрак, огненный-круг]
+related_npcs:
+- zhanna-luiza
+- margarita
+tags:
+- побережье
+- призрак
+- огненный-круг
+updated: '2026-04-24'
 ---
 
 ## Итог ✅

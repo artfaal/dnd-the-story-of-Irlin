@@ -5,11 +5,20 @@ slug: northern-keller
 type_loc: город
 region: Острова Ирлин
 status: исследована
-visited: "Сессия 2"
+visited: Сессия 2
 map: assets/maps/northern-keller.jpg
-teleport_name: "Северный Келлер. Город Угасания"
-related_npcs: [berser-trant, babushka-lyubava, rouen, jane-kuban]
-tags: [ирлин, город, северный-келлер, город-угасания]
+teleport_name: Северный Келлер. Город Угасания
+related_npcs:
+- berser-trant
+- babushka-lyubava
+- rouen
+- jane-kuban
+tags:
+- ирлин
+- город
+- северный-келлер
+- город-угасания
+updated: '2026-04-24'
 ---
 
 ## Описание

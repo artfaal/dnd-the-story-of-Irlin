@@ -5,10 +5,14 @@ slug: irlin-islands
 type_loc: архипелаг
 region: Острова Ирлин
 status: частично исследована
-visited: "Сессия 1"
+visited: Сессия 1
 map: assets/maps/irlin-forest.jpg
 related_npcs: []
-tags: [ирлин, острова, основная-локация]
+tags:
+- ирлин
+- острова
+- основная-локация
+updated: '2026-04-24'
 ---
 
 ## Описание
