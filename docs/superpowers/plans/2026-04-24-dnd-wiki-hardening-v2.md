@@ -606,6 +606,10 @@ EOF
 
 ### Task 4: Write migration script `migrate_relations_v2.py`
 
+> **Pre-migration note:** before running, audit existing `relations` with `grep -rn "^- type:" /Users/claw/PROJECTS/dnd-wiki/npcs /Users/claw/PROJECTS/dnd-wiki/quests /Users/claw/PROJECTS/dnd-wiki/locations`. Two pitfalls:
+> 1. **Freeform parenthetical annotations** like `коллега (библиотекарша)` — the migration's `_kind_from_descriptive` helper strips these via keyword matching (first enum keyword wins). Manually verify the matches are sane after `--dry-run`.
+> 2. **Non-enum values** like `хозяйка` — either add to SCHEMA `relation:kind` enum (if the value is a legitimate relation kind) or map in `KIND_KEYWORDS` before migration. A full audit before Step 1 is required.
+
 **Files:**
 - Create: `/Users/claw/.openclaw/skills/dnd/scripts/migrate_relations_v2.py`
 - Create: `/Users/claw/.openclaw/skills/dnd/tests/test_migrate_relations_v2.py`
