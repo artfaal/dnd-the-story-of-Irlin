@@ -4,7 +4,7 @@ name: Ирвин Дандрич
 slug: irvin-dandrich
 race: Неизвестно
 role: Торговец информацией
-status: жив
+status: живой
 location: irlin-forest
 relation: союзник
 first_seen: Сессия 2 (2026-02-14)

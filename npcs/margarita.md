@@ -4,9 +4,9 @@ name: Маргарита
 slug: margarita
 race: Призрак
 role: Призрак из руин (кемп орков)
-status: упокоена (сессия 3, 2026-03-07)
+status: мёртвый
 location: northern-keller-ruins
-relation: враждебный
+relation: враг
 first_seen: Сессия 3 (2026-03-07)
 portrait: assets/npcs/margarita.jpg
 tags:

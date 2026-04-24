@@ -2,9 +2,9 @@
 type: location
 name: Южный Келлер
 slug: southern-keller
-type_loc: остров / руины
+type_loc: регион
 region: Острова Ирлин
-status: не посещена
+status: не были
 tags:
 - ирлин
 - остров

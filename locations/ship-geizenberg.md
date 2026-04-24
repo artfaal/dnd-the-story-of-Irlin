@@ -2,7 +2,7 @@
 type: location
 name: Корабль Гейзенберг
 slug: ship-geizenberg
-type_loc: корабль (обломки)
+type_loc: корабль
 region: Побережье Ирлина
 status: исследована
 visited: Сессия 1

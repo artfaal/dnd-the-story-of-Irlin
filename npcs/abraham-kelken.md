@@ -4,7 +4,7 @@ name: Абрахам Келкен
 slug: abraham-kelken
 race: неизвестно
 role: Профессор. Изобретатель воздушного шара.
-status: мёртв (год назад, от старости, 140 лет)
+status: мёртвый
 location: northern-keller
 relation: нейтральный
 first_seen: Сессия 3 (2026-03-07) — упомянут Роуан

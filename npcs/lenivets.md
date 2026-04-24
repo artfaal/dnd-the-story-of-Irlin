@@ -4,7 +4,7 @@ name: Ленивец (Проводник)
 slug: lenivets
 race: Ленивец
 role: Проводник между локациями островов Ирлин
-status: жив
+status: живой
 location: все локации
 relation: нейтральный
 tags:

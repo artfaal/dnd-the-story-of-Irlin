@@ -4,9 +4,9 @@ name: Жанна-Луиза
 slug: zhanna-luiza
 race: Призрак (бывший человек?)
 role: Второй призрак на Побережье
-status: мёртв
+status: мёртвый
 location: coast-irlin
-relation: враг (был)
+relation: враг
 first_seen: Сессия 2 (2026-02-14)
 tags:
 - побережье

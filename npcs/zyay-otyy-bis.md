@@ -4,7 +4,7 @@ name: Зяй и Отъй Бись
 slug: zyay-otyy-bis
 race: Неизвестно
 role: Хозяева постоялого двора «Постоялый двор братьев Бись»
-status: жив
+status: живой
 location: northern-keller
 relation: нейтральный
 first_seen: Сессия 4 (2026-03-07)

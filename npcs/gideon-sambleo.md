@@ -4,7 +4,7 @@ name: Гидеон Самблео
 slug: gideon-sambleo
 race: Эльф
 role: Житель фермы Самблео
-status: жив
+status: живой
 location: irlin-forest
 relation: нейтральный
 first_seen: Сессия 2 (18.01.2026) — в храме Ильматера

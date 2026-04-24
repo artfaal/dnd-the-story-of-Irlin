@@ -4,7 +4,7 @@ name: Берсер Трант
 slug: berser-trant
 race: Человек
 role: Добродетель Северного Келлера
-status: жив
+status: живой
 location: northern-keller
 relation: враг
 first_seen: Сессия 2 (газета)

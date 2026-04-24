@@ -2,9 +2,9 @@
 type: location
 name: Острова Ирлин
 slug: irlin-islands
-type_loc: архипелаг
+type_loc: регион
 region: Острова Ирлин
-status: частично исследована
+status: частично
 visited: Сессия 1
 map: assets/maps/irlin-forest.jpg
 related_npcs: []

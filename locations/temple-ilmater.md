@@ -2,7 +2,7 @@
 type: location
 name: Храм Ильматера
 slug: temple-ilmater
-type_loc: temple
+type_loc: храм
 region: Острова Ирлин (Побережье)
 status: исследована
 visited: Сессия 1

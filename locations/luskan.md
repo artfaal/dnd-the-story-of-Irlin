@@ -4,7 +4,7 @@ name: Лускан
 slug: luskan
 type_loc: город
 region: Материк (Север Фаэруна)
-status: неизвестна
+status: слышали
 visited: null
 map: null
 related_npcs: []

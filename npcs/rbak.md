@@ -4,7 +4,7 @@ name: Рбак
 slug: rbak
 race: Дворф
 role: Исследователь, брат Лдапа
-status: жив (спасён)
+status: живой
 location: northern-keller
 relation: союзник
 first_seen: Сессия 3 (2026-03-07)

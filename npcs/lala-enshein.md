@@ -4,7 +4,7 @@ name: Лала Эншейн
 slug: lala-enshein
 race: Человек
 role: Библиотекарша 2-го этажа храма
-status: жив
+status: живой
 location: temple-ilmater
 relation: нейтральный
 first_seen: Сессия 3 (14.02.2026)

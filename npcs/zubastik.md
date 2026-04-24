@@ -4,9 +4,9 @@ name: Зубастик
 slug: zubastik
 race: Мимик
 role: Домашний питомец Роуан Файрмей
-status: жив
+status: живой
 location: northern-keller
-relation: нейтральный (дружелюбный)
+relation: союзник
 first_seen: Сессия 3 (2026-03-07)
 tags:
 - мимик

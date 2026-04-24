@@ -4,7 +4,7 @@ name: Роуан Файрмей
 slug: rouen
 race: Человек
 role: Жена Майкла. Беременная (9-й месяц).
-status: жив
+status: живой
 location: northern-keller
 relation: нейтральный
 first_seen: Сессия 3 (2026-03-07)

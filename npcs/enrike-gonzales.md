@@ -4,7 +4,7 @@ name: Энрике Гонзалес
 slug: enrike-gonzales
 race: Неизвестно
 role: Журналист (подставлен и ограблен)
-status: жив
+status: живой
 location: northern-keller
 relation: нейтральный
 first_seen: Сессия 2 (2026-02-14)

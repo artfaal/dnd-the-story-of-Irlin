@@ -4,9 +4,9 @@ name: Шарлотта
 slug: sharlotta
 race: Призрак
 role: Призрак в лесу у Северного Келлера
-status: упокоена (сессия 3, 2026-03-07)
+status: мёртвый
 location: northern-keller-forest
-relation: враждебный
+relation: враг
 first_seen: Сессия 3 (2026-03-07)
 portrait: assets/npcs/sharlotta.jpg
 tags:

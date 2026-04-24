@@ -8,7 +8,7 @@ classes:
 subclass: Прорицание (Divination)
 level: 4
 race: Человек
-status: активен
+status: healthy
 tags:
 - маг
 - человек

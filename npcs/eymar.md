@@ -4,7 +4,7 @@ name: Эймар
 slug: eymar
 race: неизвестно
 role: неизвестно
-status: неизвестен
+status: неизвестно
 location: лаборатория (неизвестная)
 relation: враг
 first_seen: Сессия 5 (видение Ашен)

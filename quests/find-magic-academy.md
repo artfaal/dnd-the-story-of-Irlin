@@ -2,7 +2,7 @@
 type: quest
 name: Найти академию магии
 slug: find-magic-academy
-status: частично выполнен
+status: активный
 priority: побочный
 giver: chad-ridley
 location: northern-keller

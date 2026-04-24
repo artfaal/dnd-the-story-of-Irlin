@@ -4,7 +4,7 @@ name: Йоза
 slug: yoza
 race: Неизвестно
 role: Ученик Академии магии «Огненные ладони»
-status: мёртв (самовзрыв)
+status: мёртвый
 location: northern-keller
 relation: нейтральный
 first_seen: Сессия 4 (2026-03-07)

@@ -4,9 +4,9 @@ name: Лаэнель
 slug: laenel
 race: Неизвестно
 role: Организатор выставки/аукциона в Северном Келлере
-status: жив
+status: живой
 location: northern-keller
-relation: неизвестный
+relation: неизвестно
 first_seen: Сессия 4 (2026-03-07) — из слуха в таверне
 tags:
 - северный-келлер

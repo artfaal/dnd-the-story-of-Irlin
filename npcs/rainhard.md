@@ -4,7 +4,7 @@ name: Райнхард
 slug: rainhard
 race: Человек
 role: Помощник капитана Гейзенберга
-status: жив
+status: живой
 location: ship-geizenberg
 relation: нейтральный
 first_seen: Сессия 1 (корабль)

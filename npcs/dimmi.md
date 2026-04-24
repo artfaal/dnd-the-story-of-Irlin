@@ -4,7 +4,7 @@ name: Димми
 slug: dimmi
 race: Человек
 role: Капитан корабля Гейзенберг
-status: жив
+status: живой
 location: ship-geizenberg
 relation: нейтральный
 first_seen: Сессия 1 (корабль)

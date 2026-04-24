@@ -9,7 +9,7 @@ subclass: Клятва мести (Oath of Vengeance)
 level: 4
 race: Дворф
 age: 174
-status: активен
+status: cursed
 tags:
 - паладин
 - клятва-мести

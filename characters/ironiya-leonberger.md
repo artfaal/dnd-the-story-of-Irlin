@@ -8,7 +8,7 @@ classes:
 subclass: уточнить
 level: 4
 race: Эльф
-status: активен
+status: healthy
 tags:
 - эльф
 - прорицательница

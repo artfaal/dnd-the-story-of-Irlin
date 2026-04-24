@@ -4,7 +4,7 @@ name: Бабушка Любава
 slug: babushka-lyubava
 race: Человек
 role: Хозяйка чайной
-status: жив
+status: живой
 location: northern-keller
 relation: нейтральный
 first_seen: Северный Келлер

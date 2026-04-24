@@ -4,7 +4,7 @@ name: Линда Чит
 slug: linda-chit
 race: неизвестно
 role: Основательница Академии магии «Огненные ладони»
-status: мертва
+status: мёртвый
 location: northern-keller
 relation: нейтральный
 first_seen: Сессия 3 (2026-03-07) — упомянута Роуан

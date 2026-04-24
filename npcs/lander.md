@@ -4,7 +4,7 @@ name: Ландер
 slug: lander
 race: Человек
 role: Защитник храма Ильматера
-status: жив
+status: живой
 location: temple-ilmater
 relation: союзник
 first_seen: Сессия 2 (18.01.2026)

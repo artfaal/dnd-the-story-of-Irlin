@@ -4,7 +4,7 @@ name: Лиана
 slug: liana
 race: Человек
 role: Жрица храма Ильматера
-status: жив
+status: живой
 location: temple-ilmater
 relation: союзник
 first_seen: Сессия 1

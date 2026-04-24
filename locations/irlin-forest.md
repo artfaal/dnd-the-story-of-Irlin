@@ -2,9 +2,9 @@
 type: location
 name: Ирлинский лес
 slug: irlin-forest
-type_loc: лес
+type_loc: регион
 region: Острова Ирлин
-status: частично исследована
+status: частично
 map: assets/maps/irlin-forest.jpg
 related_npcs:
 - gideon-sambleo

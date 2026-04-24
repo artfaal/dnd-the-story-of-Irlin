@@ -8,7 +8,7 @@ classes:
 subclass: не выбрана
 level: 4
 race: Человек
-status: активен
+status: healthy
 tags:
 - плут
 - человек

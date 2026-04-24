@@ -8,7 +8,7 @@ classes:
 subclass: Круг Луны
 level: 4
 race: Тифлинг (Инфернальный)
-status: активен
+status: healthy
 tags:
 - тифлинг
 - друид

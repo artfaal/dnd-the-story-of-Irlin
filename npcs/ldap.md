@@ -4,7 +4,7 @@ name: Лдап
 slug: ldap
 race: Дворф
 role: Трактирщик Голодного лесника
-status: жив
+status: живой
 location: northern-keller
 relation: союзник
 first_seen: Сессия 3 (2026-03-07)

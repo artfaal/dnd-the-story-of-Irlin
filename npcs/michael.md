@@ -4,7 +4,7 @@ name: Майкл
 slug: michael
 race: Человек
 role: Метрдотель А.М. «Огненные ладони»
-status: жив
+status: живой
 location: northern-keller
 relation: нейтральный
 first_seen: Сессия 3 (14.02.2026)

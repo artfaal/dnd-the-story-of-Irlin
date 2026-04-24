@@ -3,7 +3,7 @@ type: quest
 name: Статья для Ирвина Дандрича
 slug: statya-irvin
 status: выполнен
-priority: СРОЧНО
+priority: срочно
 giver: Ирвин Дандрич
 location: irlin-forest
 deadline: Завтра (по игровому времени) в 12:00
