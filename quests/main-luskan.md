@@ -5,7 +5,7 @@ slug: main-luskan
 status: активный
 blocker: Кракен + изоляция на островах Ирлин
 priority: главный
-giver: null
+giver: '2026-01-06'
 location: irlin-islands
 related_npcs: []
 tags:

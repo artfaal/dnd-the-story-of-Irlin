@@ -16,6 +16,7 @@ completed_date: 2026-03-28
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
+giver: torvin-kamneklyatv
 ---
 
 ## Суть

@@ -5,7 +5,7 @@ slug: stone-bee
 status: активный
 found: Сессия 2 (18.01.2026) — разрушенное строение, побережье
 priority: побочный
-giver: null
+giver: ashan
 location: null
 related_npcs: []
 tags:

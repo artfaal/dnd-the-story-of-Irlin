@@ -5,7 +5,7 @@ slug: beekeeper
 status: выполнен
 priority: побочный
 location: northern-keller
-quest_giver: babushka-lyubava
+giver: babushka-lyubava
 tags:
 - северный-келлер
 - бабушка-любава

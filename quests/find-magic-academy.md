@@ -4,7 +4,7 @@ name: Найти академию магии
 slug: find-magic-academy
 status: частично выполнен
 priority: побочный
-giver: null
+giver: chad-ridley
 location: northern-keller
 related_npcs:
 - rouen

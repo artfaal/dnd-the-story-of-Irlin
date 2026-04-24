@@ -225,3 +225,25 @@
 - check taxonomy
 - check temporal
 - check unique-slug
+
+## [2026-04-24 11:18] lint | 18 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+
+## [2026-04-24 11:20] lint | 100 errors, 287 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug

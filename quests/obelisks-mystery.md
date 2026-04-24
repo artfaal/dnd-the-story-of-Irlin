@@ -4,7 +4,7 @@ name: Загадка обелисков и жаровень
 slug: obelisks-mystery
 status: активный
 priority: основной
-giver: null
+giver: liana
 location: temple-ilmater
 related_npcs:
 - liana

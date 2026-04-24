@@ -4,7 +4,7 @@ name: Поговорить с Гидеоном Самблео
 slug: gideon-talk
 status: активный
 priority: побочный
-giver: null
+giver: chad-ridley
 location: irlin-forest
 related_npcs:
 - gideon-sambleo

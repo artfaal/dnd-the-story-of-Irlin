@@ -5,7 +5,7 @@ slug: save-rbak
 status: выполнен
 priority: побочный
 location: northern-keller
-quest_giver: ldap
+giver: ldap
 tags:
 - орки
 - заброшенная-лесопилка

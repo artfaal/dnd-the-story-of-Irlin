@@ -4,7 +4,7 @@ name: Библиотека храма
 slug: temple-library
 status: выполнен
 priority: побочный
-giver: null
+giver: chad-ridley
 location: temple-ilmater
 related_npcs:
 - lala-enshein
