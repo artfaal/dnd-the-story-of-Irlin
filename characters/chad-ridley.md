@@ -6,7 +6,9 @@ player: Коля
 classes:
 - маг
 subclass: Прорицание (Divination)
+subclass_status: chosen
 level: 4
+hp_max: null
 race: Человек
 status: healthy
 tags:
@@ -16,6 +18,11 @@ tags:
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
+open_questions:
+  - text: "HP max у Чада — посмотреть в character sheet"
+    category: clarify
+    asked: 2026-04-24
+    answer: null
 ---
 
 ## Особое
@@ -36,3 +43,7 @@ sources: []
 ## Открытые вопросы
 - Что произошло 14.02 — почему психанул?
 - Тревожный сон (сессия 5) — механика или сюжет? Связано с демипланом/школой Вызова?
+
+## Заметки игрока
+
+- 14 февраля 2026 (сессия #3) — Коля психанул и ливнул из чата (и из чата Цивы). Статус участия в кампании неясен.

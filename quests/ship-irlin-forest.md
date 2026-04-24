@@ -4,7 +4,7 @@ name: Разрушенный корабль в Ирлинском лесу
 slug: ship-irlin-forest
 status: активный
 priority: побочный
-location: Ирлинский лес
+location: irlin-forest
 tags:
 - корабль
 - ирлинский-лес

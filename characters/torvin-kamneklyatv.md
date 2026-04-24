@@ -6,8 +6,10 @@ player: Макс
 classes:
 - паладин
 subclass: Клятва мести (Oath of Vengeance)
+subclass_status: chosen
 level: 4
 hp_max: 38
+active_quest_ref: cure-mummy-rot
 race: Дворф
 age: 174
 status: cursed

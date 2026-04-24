@@ -5,7 +5,13 @@ slug: main-luskan
 status: активный
 blocker: Кракен + изоляция на островах Ирлин
 priority: главный
-giver: '2026-01-06'
+giver: torvin-kamneklyatv
+open_questions:
+  - text: "Кто formally дал квест «Путь в Лускан»? NPC-торговец из сессии 1, или общая цель партии?"
+    category: clarify
+    asked: 2026-04-24
+    asked_in: '2026-01-06'
+    answer: null
 location: irlin-islands
 related_npcs: []
 tags:

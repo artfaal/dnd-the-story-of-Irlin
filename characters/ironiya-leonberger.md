@@ -5,8 +5,10 @@ slug: ironiya-leonberger
 player: Ринвасильна
 classes:
 - колдун
-subclass: уточнить
+subclass: null
+subclass_status: tbd
 level: 4
+hp_max: null
 race: Эльф
 status: healthy
 tags:
@@ -16,6 +18,15 @@ tags:
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
+open_questions:
+  - text: "HP max у Ирронии — посмотреть в character sheet"
+    category: clarify
+    asked: 2026-04-24
+    answer: null
+  - text: "Субкласс Ирронии (колдун) — выбрать"
+    category: clarify
+    asked: 2026-04-24
+    answer: null
 ---
 
 ## Особое
@@ -54,3 +65,8 @@ sources: []
 ## Открытые вопросы
 - Subclass колдуна — уточнить
 - Набор колец неполный — продолжать собирать
+
+## Заметки игрока
+
+- Любит, когда называют полным именем: **Иррония Хезер Леонбергер**.
+- Хотела сходить на выставку в дом Лаэнеля.

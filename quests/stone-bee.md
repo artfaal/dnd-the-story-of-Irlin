@@ -6,7 +6,7 @@ status: активный
 found: Сессия 2 (18.01.2026) — разрушенное строение, побережье
 priority: побочный
 giver: ashan
-location: null
+location: northern-keller
 related_npcs: []
 tags:
 - камень

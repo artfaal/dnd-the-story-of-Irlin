@@ -5,8 +5,10 @@ slug: dimitrina-speiskaya
 player: Ира
 classes:
 - плут
-subclass: не выбрана
+subclass: null
+subclass_status: tbd
 level: 4
+hp_max: null
 race: Человек
 status: healthy
 tags:
@@ -16,6 +18,15 @@ tags:
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
+open_questions:
+  - text: "HP max у Димитрины — посмотреть в character sheet"
+    category: clarify
+    asked: 2026-04-24
+    answer: null
+  - text: "Субкласс Димитрины (плут) — выбрать"
+    category: clarify
+    asked: 2026-04-24
+    answer: null
 ---
 
 ## Особое

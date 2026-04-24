@@ -6,7 +6,9 @@ player: Даха
 classes:
 - друид
 subclass: Круг Луны
+subclass_status: chosen
 level: 4
+hp_max: null
 race: Тифлинг (Инфернальный)
 status: healthy
 tags:
@@ -16,6 +18,11 @@ tags:
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
+open_questions:
+  - text: "HP max у Ашен — посмотреть в character sheet"
+    category: clarify
+    asked: 2026-04-24
+    answer: null
 ---
 
 ## Особое
@@ -35,3 +42,7 @@ sources: []
 ## Открытые вопросы
 - Что за чуваки пытались украсть силы в сессии 1?
 - Почему семья отправила её сюда?
+
+## Заметки игрока
+
+- Во 2-й сессии ГМ ей солгал — заметила, но не помнит в каком моменте. См. также rumours.md (текущий слух про ложь ГМу).

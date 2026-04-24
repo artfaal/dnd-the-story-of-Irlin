@@ -15,10 +15,10 @@ session_next:
 <!-- BEGIN generated:party — do not edit; run `dnd-sync-state.py` -->
 | Персонаж | Уровень | HP max | Статус |
 |----------|---------|--------|--------|
-| ashan | 4 | TBD | healthy |
-| chad-ridley | 4 | TBD | healthy |
-| dimitrina-speiskaya | 4 | TBD | healthy |
-| ironiya-leonberger | 4 | TBD | healthy |
+| ashan | 4 | None | healthy |
+| chad-ridley | 4 | None | healthy |
+| dimitrina-speiskaya | 4 | None | healthy |
+| ironiya-leonberger | 4 | None | healthy |
 | torvin-kamneklyatv | 4 | 38 | cursed |
 <!-- END generated:party -->
 
