@@ -10,3 +10,4 @@ vectors.db-wal
 *.swp
 *.swo
 *~
+.cache/
