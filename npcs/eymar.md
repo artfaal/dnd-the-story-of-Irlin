@@ -3,7 +3,7 @@ type: npc
 name: Эймар
 slug: eymar
 race: неизвестно
-role: неизвестно
+role: Неизвестна
 status: неизвестно
 location: northern-keller
 relation: враг

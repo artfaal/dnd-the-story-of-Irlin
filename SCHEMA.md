@@ -42,6 +42,18 @@ Every page has `type:` in frontmatter. Valid types are listed below.
 - неизвестно
 <!-- /schema:enum:npc:relation -->
 
+<!-- schema:enum:npc:race -->
+- Дворф
+- Эльф
+- Человек
+- Неизвестно
+- неизвестно
+- Призрак (бывший человек?)
+- Призрак
+- Ленивец
+- Мимик
+<!-- /schema:enum:npc:race -->
+
 ### quest
 
 <!-- schema:enum:quest:status -->

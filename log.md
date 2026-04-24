@@ -1443,3 +1443,200 @@
 - check rumour-refs
 - check state-drift
 - check campaign-drift
+
+## [2026-04-24 17:47] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:53] lint | 0 errors, 18 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:53] lint | 0 errors, 16 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:54] lint | 0 errors, 16 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:54] lint | 16 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:54] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:54] lint | 16 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:56] lint | 0 errors, 16 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:58] lint | 6 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:59] lint | 1 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:59] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
