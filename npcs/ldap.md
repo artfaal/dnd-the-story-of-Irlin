@@ -14,8 +14,8 @@ tags:
 - дворф
 - трактирщик
 relations:
-- npc: rbak
-  type: брат
+- to: rbak
+  kind: брат
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []

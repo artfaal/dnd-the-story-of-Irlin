@@ -13,8 +13,8 @@ tags:
 - корабль
 - капитан
 relations:
-- npc: rainhard
-  type: подчинённый (помощник капитана)
+- to: rainhard
+  kind: подчинённый
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []

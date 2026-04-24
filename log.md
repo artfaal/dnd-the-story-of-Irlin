@@ -1119,3 +1119,118 @@
 - check rumour-refs
 - check state-drift
 - check campaign-drift
+
+## [2026-04-24 17:09] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:11] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:13] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:20] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:22] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:28] migrate | relations-to-v2
+- npcs/alister.md
+- npcs/dimmi.md
+- npcs/lander.md
+- npcs/ldap.md
+- npcs/liana.md
+- npcs/miala.md
+- npcs/michael.md
+- npcs/rainhard.md
+- npcs/rbak.md
+- npcs/rouen.md
+- npcs/zubastik.md
+
+## [2026-04-24 17:29] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift

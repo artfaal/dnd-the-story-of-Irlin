@@ -15,8 +15,8 @@ tags:
 - беременная
 - электричество
 relations:
-- npc: michael
-  type: жена
+- to: michael
+  kind: жена
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []

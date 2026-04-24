@@ -13,10 +13,10 @@ tags:
 - жрица
 - ильматер
 relations:
-- npc: lander
-  type: коллега (защитник того же храма)
-- npc: lala-enshein
-  type: коллега (библиотекарша)
+- to: lander
+  kind: коллега
+- to: lala-enshein
+  kind: коллега
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []

@@ -14,8 +14,8 @@ tags:
 - роуан-файрмей
 - кресло
 relations:
-- npc: rouen
-  type: хозяйка
+- to: rouen
+  kind: связан-с
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []

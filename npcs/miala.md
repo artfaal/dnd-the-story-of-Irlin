@@ -13,8 +13,8 @@ tags:
 - алистер
 - камень
 relations:
-- npc: alister
-  type: враг (судя по записке)
+- to: alister
+  kind: враг
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []

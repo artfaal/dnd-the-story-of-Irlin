@@ -13,8 +13,8 @@ tags:
 - миала
 - записка
 relations:
-- npc: miala
-  type: враг (судя по контексту)
+- to: miala
+  kind: враг
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []

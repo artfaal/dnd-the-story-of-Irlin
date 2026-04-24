@@ -14,8 +14,8 @@ tags:
 - дворф
 - исследователь
 relations:
-- npc: ldap
-  type: брат
+- to: ldap
+  kind: брат
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []

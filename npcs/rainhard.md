@@ -12,8 +12,8 @@ tags:
 - гейзенберг
 - корабль
 relations:
-- npc: dimmi
-  type: капитан (начальник)
+- to: dimmi
+  kind: связан-с
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []

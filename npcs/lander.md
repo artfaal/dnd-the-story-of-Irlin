@@ -13,8 +13,8 @@ tags:
 - защитник
 - кракен
 relations:
-- npc: liana
-  type: коллега (жрица того же храма)
+- to: liana
+  kind: коллега
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []

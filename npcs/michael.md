@@ -13,8 +13,8 @@ tags:
 - академия-магии
 - огненные-ладони
 relations:
-- npc: rouen
-  type: муж
+- to: rouen
+  kind: муж
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
