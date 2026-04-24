@@ -1676,3 +1676,231 @@
 - check rumour-refs
 - check state-drift
 - check campaign-drift
+
+## [2026-04-24 18:03] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 18:05] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 18:05] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 18:08] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 18:09] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 18:12] lint | 0 errors, 5 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 18:12] lint | 60 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 18:13] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 18:13] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 18:13] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 18:13] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
