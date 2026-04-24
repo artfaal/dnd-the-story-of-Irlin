@@ -114,6 +114,69 @@ Every page has `type:` in frontmatter. Valid types are listed below.
 - в работе
 <!-- /schema:enum:rumour:status -->
 
+### item (extended)
+
+<!-- schema:enum:item:type_item -->
+- оружие
+- броня
+- артефакт
+- расходник
+- записка
+- ключ
+- книга
+- инструмент
+- документ
+- реликвия
+- зелье
+<!-- /schema:enum:item:type_item -->
+
+### character (extended)
+
+<!-- schema:enum:character:subclass_status -->
+- chosen
+- tbd
+<!-- /schema:enum:character:subclass_status -->
+
+### open_question
+
+<!-- schema:enum:open_question:category -->
+- clarify
+- lore
+- blocker
+<!-- /schema:enum:open_question:category -->
+
+<!-- schema:enum:open_question:status -->
+- open
+- answered
+- obsolete
+<!-- /schema:enum:open_question:status -->
+
+### relation
+
+<!-- schema:enum:relation:kind -->
+- союзник
+- враг
+- нейтральный
+- коллега
+- муж
+- жена
+- брат
+- сестра
+- отец
+- мать
+- сын
+- дочь
+- наставник
+- ученик
+- член-группы
+- знакомый
+- подозреваемый
+- жертва
+- патрон
+- подчинённый
+- связан-с
+<!-- /schema:enum:relation:kind -->
+
 ## Taxonomy
 
 Tags must come from this taxonomy. Add new tags here before using them.
@@ -181,6 +244,74 @@ All types require the common frontmatter: `name`, `slug`, `type`, `created`, `up
 - kind
 <!-- /schema:required:rule -->
 
+## Optional fields per type
+
+Fields listed here are validated by the linter when present (enum/regex applied) but not required. Values must obey the declared type.
+
+<!-- schema:optional:common -->
+- aliases
+- portrait
+- map
+- open_questions
+<!-- /schema:optional:common -->
+
+<!-- schema:optional:npc -->
+- first_seen
+- last_seen
+- aliases
+- portrait
+- secrets
+<!-- /schema:optional:npc -->
+
+<!-- schema:optional:quest -->
+- next_session
+- deadline
+- blocker
+- related_npcs
+- related_locations
+- created_session
+- created_date
+- location
+<!-- /schema:optional:quest -->
+
+<!-- schema:optional:location -->
+- related_npcs
+- visited
+- map
+- parent_region
+- sub_locations
+<!-- /schema:optional:location -->
+
+<!-- schema:optional:session -->
+- players
+- absent
+- game_day
+- location_ingame
+- mentions
+- tags
+<!-- /schema:optional:session -->
+
+<!-- schema:optional:character -->
+- hp_max
+- subclass
+- subclass_status
+- age
+- portrait
+- active_quest_ref
+<!-- /schema:optional:character -->
+
+<!-- schema:optional:item -->
+- holder
+- type_item
+- attuned_by
+- notes
+<!-- /schema:optional:item -->
+
+<!-- schema:optional:rule -->
+- source_book
+- page
+<!-- /schema:optional:rule -->
+
 ## Page thresholds
 
 - **npc:** create when mentioned by name 2+ times OR central to one session.
@@ -216,3 +347,23 @@ When new info conflicts with existing:
 - `name:` can be Cyrillic / contain spaces / punctuation.
 - Session files: `sessions/YYYY-MM-DD.md`.
 - Live notes: `raw/live/YYYY-MM-DD.md`.
+
+## Open questions policy
+
+Entity frontmatter may carry an `open_questions:` list. Wiki-wide questions live in `questions.md`.
+
+Entry schema:
+
+```yaml
+- text: "<human-readable question>"
+  category: clarify | lore | blocker
+  asked: <ISO-date>
+  asked_in: <session-slug>   # optional
+  answer: null | "<text>"    # null while open
+  answered_in: <session-slug>  # optional, set by --answer
+  id: q-<tag>-NNN            # ONLY for wiki-wide questions.md entries
+```
+
+Entity-scoped entries are addressed by 0-based index. Wiki-wide entries require a unique `id:`.
+
+When an entry is answered, the agent moves the answer into the relevant entity body (section `## Известные факты` or equivalent), removes the frontmatter entry, and bumps `updated:`. Closed entries are recovered from git history if needed — not kept in frontmatter.
