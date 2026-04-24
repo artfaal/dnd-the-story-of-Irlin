@@ -1043,3 +1043,62 @@
 - check rumour-refs
 - check state-drift
 - check campaign-drift
+
+## [2026-04-24 16:59] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:00] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 17:08] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 18:00] schema | Task 1 code-review fixup
+- I1: add duration_hours (session), completed_date/completed_session/found (quest), teleport_name (location)
+- M1: add secrets deprecation note to npc optional block
+- M2: remove redundant aliases/portrait from npc, portrait from character optional blocks
+- M3: merge item(extended)/character(extended) into parent enum sections
+- I2: add pre-migration audit note to plan Task 4
+- extended parse_schema() to parse optional: blocks

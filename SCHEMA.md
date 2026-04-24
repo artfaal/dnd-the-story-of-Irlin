@@ -87,6 +87,11 @@ Every page has `type:` in frontmatter. Valid types are listed below.
 - deceased
 <!-- /schema:enum:character:status -->
 
+<!-- schema:enum:character:subclass_status -->
+- chosen
+- tbd
+<!-- /schema:enum:character:subclass_status -->
+
 ### item
 
 <!-- schema:enum:item:rarity -->
@@ -97,6 +102,20 @@ Every page has `type:` in frontmatter. Valid types are listed below.
 - legendary
 - artifact
 <!-- /schema:enum:item:rarity -->
+
+<!-- schema:enum:item:type_item -->
+- оружие
+- броня
+- артефакт
+- расходник
+- записка
+- ключ
+- книга
+- инструмент
+- документ
+- реликвия
+- зелье
+<!-- /schema:enum:item:type_item -->
 
 ### rule
 
@@ -113,29 +132,6 @@ Every page has `type:` in frontmatter. Valid types are listed below.
 - опровергнут
 - в работе
 <!-- /schema:enum:rumour:status -->
-
-### item (extended)
-
-<!-- schema:enum:item:type_item -->
-- оружие
-- броня
-- артефакт
-- расходник
-- записка
-- ключ
-- книга
-- инструмент
-- документ
-- реликвия
-- зелье
-<!-- /schema:enum:item:type_item -->
-
-### character (extended)
-
-<!-- schema:enum:character:subclass_status -->
-- chosen
-- tbd
-<!-- /schema:enum:character:subclass_status -->
 
 ### open_question
 
@@ -258,10 +254,10 @@ Fields listed here are validated by the linter when present (enum/regex applied)
 <!-- schema:optional:npc -->
 - first_seen
 - last_seen
-- aliases
-- portrait
 - secrets
 <!-- /schema:optional:npc -->
+
+> Note: `secrets` is a deprecated migration bridge — will be removed in Phase 3 (data fixes). New NPC files must not use it; use body sections + tags for hidden-facts content.
 
 <!-- schema:optional:quest -->
 - next_session
@@ -272,6 +268,9 @@ Fields listed here are validated by the linter when present (enum/regex applied)
 - created_session
 - created_date
 - location
+- completed_date
+- completed_session
+- found
 <!-- /schema:optional:quest -->
 
 <!-- schema:optional:location -->
@@ -280,6 +279,7 @@ Fields listed here are validated by the linter when present (enum/regex applied)
 - map
 - parent_region
 - sub_locations
+- teleport_name
 <!-- /schema:optional:location -->
 
 <!-- schema:optional:session -->
@@ -289,6 +289,7 @@ Fields listed here are validated by the linter when present (enum/regex applied)
 - location_ingame
 - mentions
 - tags
+- duration_hours
 <!-- /schema:optional:session -->
 
 <!-- schema:optional:character -->
@@ -296,7 +297,6 @@ Fields listed here are validated by the linter when present (enum/regex applied)
 - subclass
 - subclass_status
 - age
-- portrait
 - active_quest_ref
 <!-- /schema:optional:character -->
 
