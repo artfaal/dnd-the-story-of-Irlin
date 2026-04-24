@@ -1640,3 +1640,39 @@
 - check rumour-refs
 - check state-drift
 - check campaign-drift
+
+## [2026-04-24 18:00] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 18:02] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift

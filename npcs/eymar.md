@@ -3,7 +3,7 @@ type: npc
 name: Эймар
 slug: eymar
 race: неизвестно
-role: Неизвестна
+role: Загадочный маг (антагонист)
 status: неизвестно
 location: northern-keller
 relation: враг
@@ -15,6 +15,11 @@ tags:
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
+open_questions:
+  - text: "Точная роль Эймара в кампании — он главный антагонист, приспешник, или независимый? Связь с Братством взирающих очей?"
+    category: lore
+    asked: 2026-04-24
+    answer: null
 ---
 
 ## Внешность
