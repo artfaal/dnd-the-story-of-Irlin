@@ -12,3 +12,9 @@
 - Moved: PLAN.md, TODO.md → raw/meta/
 - Created: SCHEMA.md (skeleton), STATE.md, log.md, index.md (skeleton), items/, raw/{handouts,maps,photos,meta}/
 - Written: CAMPAIGN.md (extracted from legacy SKILL.md)
+
+## [2026-04-24 01:00] migrate | Phase 1 fixup
+- Moved: assets/npcs/*.jpg → raw/photos/ (NPC portraits)
+- Moved: assets/item-musical-instrument-1984.jpg → raw/photos/
+- Moved: report/*.md → raw/meta/ (legacy analysis docs)
+- Removed: empty assets/ and report/ directories
