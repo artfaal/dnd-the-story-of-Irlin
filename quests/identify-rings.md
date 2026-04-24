@@ -7,7 +7,7 @@ priority: побочный
 location: northern-keller
 tags:
 - кольцо
-- призраки
+- призрак
 - семья-файрмей
 - опознание
 updated: '2026-04-24'
