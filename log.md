@@ -741,3 +741,46 @@
 - check rumour-refs
 - check state-drift
 - check campaign-drift
+
+## [2026-04-24 14:18] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 14:20] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-24 14:25] hardening | skill-extensions deployed
+- dnd-sync-state.py live; STATE/CAMPAIGN migrated to derived-block contract (commit c333996)
+- 7 lint extensions: state-refs, stale-focus, taxonomy-hygiene, rumour-refs, state-drift, campaign-drift + relations-list-shape fix
+- did-you-mean hints (difflib) on broken-ref/state-refs/rumour-refs
+- pre-commit hook installed at .git/hooks/pre-commit
+- test suite: 39 tests passing (from 0 — bootstrap'd from scratch)
+- skill snapshot at ~/.openclaw.pre-hardening-20260424-1324 (rollback path)
+- e2e audit-replay verified: all 4 original bugs caught; 2 auto-fixable
