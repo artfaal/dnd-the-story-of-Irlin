@@ -1,3 +1,14 @@
+---
+name: Хомрулы кампании
+slug: homebrew
+type: rule
+kind: homebrew
+created: '2026-04-24'
+updated: '2026-04-24'
+tags: []
+sources: []
+---
+
 # Хомрулы — The story of Irlin
 
 *Кампания ДМа. Список неполный — ДМ обещал добавить ещё.*

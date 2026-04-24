@@ -1,3 +1,14 @@
+---
+name: SRD 5e — русский перевод
+slug: srd-5e2024-ru
+type: rule
+kind: raw
+created: '2026-04-24'
+updated: '2026-04-24'
+tags: []
+sources: []
+---
+
 # SRD 5.1 на русском (сводный markdown)
 
 Источник: проект перевода SRD 5.1 (CC-BY-4.0 для исходного SRD; перевод в репозитории palikhov/srd-dnd-5e-ru).
