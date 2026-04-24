@@ -9,7 +9,7 @@ location: irlin-forest
 related_npcs:
 - gideon-sambleo
 tags:
-- ирлиндский-лес
+- ирлинский-лес
 - гидеон
 - самблео
 updated: '2026-04-24'

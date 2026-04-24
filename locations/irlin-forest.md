@@ -9,7 +9,7 @@ map: assets/maps/irlin-forest.jpg
 related_npcs:
 - gideon-sambleo
 tags:
-- ирлин
+- острова-ирлин
 - лес
 - ферма-самблео
 - природа

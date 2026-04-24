@@ -414,3 +414,95 @@
 ## [2026-04-24 11:38] summary | pre-session
 - last=1
 - full=False
+
+## [2026-04-24 11:43] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+
+## [2026-04-24 11:49] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+
+## [2026-04-24 11:49] summary | pre-session
+- last=1
+- full=False
+
+## [2026-04-24 11:53] rebuild | index.md
+- NPCs: 33
+- Quests: 22
+- Locations: 7
+- Sessions: 5
+- Characters: 5
+- Items: 0
+- Rules: 3
+- Total: 75
+
+## [2026-04-24 12:05] embed | namespace: all
+- new: 1
+- skipped: 3
+- updated: 75
+
+## [2026-04-24 12:09] summary | pre-session
+- last=1
+- full=False
+
+## [2026-04-24 12:12] query | "Эймар"
+- namespace: campaign
+- top1: Эймар
+
+## [2026-04-24 12:17] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+
+## [2026-04-24 12:39] rebuild | index.md
+- NPCs: 33
+- Quests: 22
+- Locations: 7
+- Sessions: 5
+- Characters: 5
+- Items: 0
+- Rules: 3
+- Total: 75
+
+## [2026-04-24 12:39] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+
+## [2026-04-24 12:25] maintenance | wiki-audit fixes
+- ghost-slugs fixed: STATE.md + CAMPAIGN.md (ashen→ashan, irroniya-hezer-leonberger→ironiya-leonberger, dimitrina-speysskaya→dimitrina-speiskaya)
+- STATE focus_quests: find-ilkai(выполнен) → [cure-mummy-rot, airship-escape]
+- STATE: Torvin HP 38 (session 5)
+- SCHEMA taxonomy cleaned: -роуэн, -проклятье, -выполненный, -ирлиндский-лес, -ирлин, -острова, -храм, -культ, -культ-взирающих-очей
+- Tag replacements in 11 files (locations, npcs/berser-trant, npcs/gideon-sambleo, quests/find-ilkai, quests/find-magic-academy, quests/gideon-talk, sessions/2026-01-18)
+- rumours.md: all entries inside one yaml fence; phrase-tail converted to rumour entry; torvin→torvin-kamneklyatv
+- berser-trant.md: removed relation to non-existent bratstvo-vzirauschih-ochei
+- Moved raw/live/2026-03-28-altar-map-torvin.jpg → raw/maps/
+- lint --strict: 0 errors, 0 warnings

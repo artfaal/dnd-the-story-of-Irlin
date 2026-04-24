@@ -5,20 +5,20 @@ party_location: northern-keller
 current_focus: main-luskan
 session_next:
   date: TBD
-  focus_quests: [find-ilkai]
+  focus_quests: [cure-mummy-rot, airship-escape]
 ---
 
 # Состояние кампании — The story of Irlin
 
 ## Партия сейчас
 
-| Персонаж                   | Уровень | HP max | Статус     |
-|----------------------------|---------|--------|------------|
-| torvin-kamneklyatv         | 4       | TBD    | проклятье  |
-| ashen                      | 4       | TBD    | healthy    |
-| chad-ridley                | 4       | TBD    | healthy    |
-| irroniya-hezer-leonberger  | 4       | TBD    | healthy    |
-| dimitrina-speysskaya       | 4       | TBD    | healthy    |
+| Персонаж              | Уровень | HP max | Статус     |
+|-----------------------|---------|--------|------------|
+| torvin-kamneklyatv    | 4       | 38     | проклятье  |
+| ashan                 | 4       | TBD    | healthy    |
+| chad-ridley           | 4       | TBD    | healthy    |
+| ironiya-leonberger    | 4       | TBD    | healthy    |
+| dimitrina-speiskaya   | 4       | TBD    | healthy    |
 
 ## Активные эффекты / угрозы
 

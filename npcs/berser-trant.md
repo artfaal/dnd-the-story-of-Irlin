@@ -10,12 +10,8 @@ relation: враг
 first_seen: '2026-01-18'
 tags:
 - северный-келлер
-- культ
 - братство-взирающих-очей
 - добродетель
-relations:
-- npc: bratstvo-vzirauschih-ochei
-  type: участник (тайно)
 secrets:
 - Тайный участник «Братства взирающих очей»
 updated: '2026-04-24'

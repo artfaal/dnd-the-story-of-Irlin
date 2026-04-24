@@ -9,8 +9,7 @@ visited: Сессия 1
 map: assets/maps/irlin-forest.jpg
 related_npcs: []
 tags:
-- ирлин
-- острова
+- острова-ирлин
 - основная-локация
 updated: '2026-04-24'
 created: '2026-04-24'
