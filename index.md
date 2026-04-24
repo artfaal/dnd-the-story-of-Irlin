@@ -1,6 +1,6 @@
 # Index
 
-> Last updated: 2026-04-24 | Total: 75 pages
+> Last updated: 2026-04-24 | Total: 76 pages
 
 ## NPCs (33)
 - [Абрахам Келкен](npcs/abraham-kelken.md) — Профессор. Изобретатель воздушного шара., нейтральный, мёртвый
@@ -34,7 +34,7 @@
 - [Рбак](npcs/rbak.md) — Исследователь, брат Лдапа, союзник
 - [Роуан Файрмей](npcs/rouen.md) — Жена Майкла. Беременная (9-й месяц)., нейтральный
 - [Шарлотта](npcs/sharlotta.md) — Призрак в лесу у Северного Келлера, враг, мёртвый
-- [Эймар](npcs/eymar.md) — неизвестно, враг, неизвестно
+- [Эймар](npcs/eymar.md) — Загадочный маг (антагонист), враг, неизвестно
 - [Энрике Гонзалес](npcs/enrike-gonzales.md) — Журналист (подставлен и ограблен), нейтральный
 
 ## Quests (22)
@@ -54,12 +54,12 @@
 - [Разрушенный корабль в Ирлинском лесу](quests/ship-irlin-forest.md) — ⚪ побочный
 - [Камень с шершнем](quests/stone-bee.md) — ⚪ побочный
 ### Completed
-- [Статья для Ирвина Дандрича](quests/statya-irvin.md)
 - [Подземелье под руинами (кемп орков)](quests/dungeon-ruins.md)
 - [Найти Илкая](quests/find-ilkai.md)
 - [Призрак Шарлотта (шершни бабушки Любавы)](quests/beekeeper.md)
 - [Огненный призрак (Жанна-Луиза)](quests/prizrak-ogon.md)
 - [Спасти Рбака (брата Лдапа)](quests/save-rbak.md)
+- [Статья для Ирвина Дандрича](quests/statya-irvin.md)
 - [Библиотека храма](quests/temple-library.md)
 ### Frozen
 - [Забрать гомункула](quests/golem-from-temple.md)
@@ -87,7 +87,8 @@
 - [Торвин Камнеклятв](characters/torvin-kamneklyatv.md) — Макс, ур.4, паладин
 - [Чад Ридли](characters/chad-ridley.md) — Коля, ур.4, маг
 
-## Items (0)
+## Items (1)
+- [Мари-Клодетт](items/marie-claudette-ring.md) — artifact, owner: ironiya-leonberger
 
 ## Rules (3)
 - [SRD 5e 2024 (EN)](rules/srd-5e2024.md) — raw

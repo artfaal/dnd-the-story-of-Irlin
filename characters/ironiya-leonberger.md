@@ -18,6 +18,8 @@ tags:
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
+mentions:
+- marie-claudette-ring
 open_questions:
   - text: "HP max у Ирронии — посмотреть в character sheet"
     category: clarify
