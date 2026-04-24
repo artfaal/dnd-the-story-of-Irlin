@@ -1,0 +1,12 @@
+# embeddings DB — rebuildable, excluded from git
+vectors.db
+vectors.db-shm
+vectors.db-wal
+
+# macOS
+.DS_Store
+
+# temp
+*.swp
+*.swo
+*~
