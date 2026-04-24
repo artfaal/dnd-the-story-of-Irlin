@@ -3,7 +3,8 @@ type: character
 name: Чад Ридли
 slug: chad-ridley
 player: Коля
-class: Маг
+classes:
+- маг
 subclass: Прорицание (Divination)
 level: 4
 race: Человек

@@ -3,7 +3,8 @@ type: character
 name: Иррония Хезер Леонбергер
 slug: ironiya-leonberger
 player: Ринвасильна
-class: Колдун
+classes:
+- колдун
 subclass: уточнить
 level: 4
 race: Эльф

@@ -3,7 +3,8 @@ type: character
 name: Торвин Камнеклятв
 slug: torvin-kamneklyatv
 player: Макс
-class: Паладин
+classes:
+- паладин
 subclass: Клятва мести (Oath of Vengeance)
 level: 4
 race: Дворф

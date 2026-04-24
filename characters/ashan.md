@@ -3,7 +3,8 @@ type: character
 name: Ашен
 slug: ashan
 player: Даха
-class: Друид
+classes:
+- друид
 subclass: Круг Луны
 level: 4
 race: Тифлинг (Инфернальный)

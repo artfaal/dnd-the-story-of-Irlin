@@ -3,7 +3,8 @@ type: character
 name: Димитрина Спейсская
 slug: dimitrina-speiskaya
 player: Ира
-class: Плут
+classes:
+- плут
 subclass: не выбрана
 level: 4
 race: Человек
