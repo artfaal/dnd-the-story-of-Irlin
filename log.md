@@ -247,3 +247,24 @@
 - check taxonomy
 - check temporal
 - check unique-slug
+
+## [2026-04-24 11:21] rebuild | index.md
+- NPCs: 33
+- Quests: 22
+- Locations: 7
+- Sessions: 5
+- Characters: 5
+- Items: 0
+- Rules: 3
+- Total: 75
+
+## [2026-04-24 11:21] lint | 100 errors, 284 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
