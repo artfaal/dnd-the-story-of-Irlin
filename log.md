@@ -18,3 +18,13 @@
 - Moved: assets/item-musical-instrument-1984.jpg → raw/photos/
 - Moved: report/*.md → raw/meta/ (legacy analysis docs)
 - Removed: empty assets/ and report/ directories
+
+## [2026-04-24 10:17] rebuild | index.md
+- NPCs: 33
+- Quests: 22
+- Locations: 7
+- Sessions: 5
+- Characters: 5
+- Items: 0
+- Rules: 0
+- Total: 72
