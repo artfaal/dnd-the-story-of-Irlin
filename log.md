@@ -334,3 +334,25 @@
 - check taxonomy
 - check temporal
 - check unique-slug
+
+## [2026-04-24 11:33] lint | 0 errors, 229 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+
+## [2026-04-24 11:35] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
