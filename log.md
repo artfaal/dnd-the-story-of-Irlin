@@ -2424,3 +2424,8 @@
 - check rumour-refs
 - check state-drift
 - check campaign-drift
+
+## [2026-04-24 19:05] embed | namespace: campaign
+- new: 83
+- skipped: 0
+- updated: 0
