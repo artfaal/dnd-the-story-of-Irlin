@@ -16,6 +16,8 @@ relations:
 - npc: rainhard
   type: подчинённый (помощник капитана)
 updated: '2026-04-24'
+created: '2026-04-24'
+sources: []
 ---
 
 ## Внешность

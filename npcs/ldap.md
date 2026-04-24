@@ -17,6 +17,8 @@ relations:
 - npc: rbak
   type: брат
 updated: '2026-04-24'
+created: '2026-04-24'
+sources: []
 ---
 
 ## Описание

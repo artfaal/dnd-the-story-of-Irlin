@@ -17,6 +17,8 @@ relations:
 - npc: alister
   type: враг (судя по записке)
 updated: '2026-04-24'
+created: '2026-04-24'
+sources: []
 ---
 
 ## Внешность
