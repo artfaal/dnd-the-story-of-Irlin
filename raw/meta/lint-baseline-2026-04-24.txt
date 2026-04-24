@@ -1,0 +1,1340 @@
+=== dnd-lint report ===
+Path:  /Users/claw/PROJECTS/dnd-wiki
+Date:  2026-04-24
+Pages: 75 scanned
+
+─── ERRORS (371) ─────────────────────────
+[missing-required]  npcs/abraham-kelken.md:created
+  required field missing: created
+[missing-required]  npcs/abraham-kelken.md:updated
+  required field missing: updated
+[missing-required]  npcs/abraham-kelken.md:sources
+  required field missing: sources
+[missing-required]  npcs/alister.md:created
+  required field missing: created
+[missing-required]  npcs/alister.md:updated
+  required field missing: updated
+[missing-required]  npcs/alister.md:sources
+  required field missing: sources
+[missing-required]  npcs/babushka-lyubava.md:created
+  required field missing: created
+[missing-required]  npcs/babushka-lyubava.md:updated
+  required field missing: updated
+[missing-required]  npcs/babushka-lyubava.md:sources
+  required field missing: sources
+[missing-required]  npcs/bastian.md:created
+  required field missing: created
+[missing-required]  npcs/bastian.md:updated
+  required field missing: updated
+[missing-required]  npcs/bastian.md:sources
+  required field missing: sources
+[missing-required]  npcs/berser-trant.md:created
+  required field missing: created
+[missing-required]  npcs/berser-trant.md:updated
+  required field missing: updated
+[missing-required]  npcs/berser-trant.md:sources
+  required field missing: sources
+[missing-required]  npcs/dimmi.md:created
+  required field missing: created
+[missing-required]  npcs/dimmi.md:updated
+  required field missing: updated
+[missing-required]  npcs/dimmi.md:sources
+  required field missing: sources
+[missing-required]  npcs/enrike-gonzales.md:created
+  required field missing: created
+[missing-required]  npcs/enrike-gonzales.md:updated
+  required field missing: updated
+[missing-required]  npcs/enrike-gonzales.md:sources
+  required field missing: sources
+[missing-required]  npcs/eymar.md:created
+  required field missing: created
+[missing-required]  npcs/eymar.md:updated
+  required field missing: updated
+[missing-required]  npcs/eymar.md:sources
+  required field missing: sources
+[missing-required]  npcs/gideon-sambleo.md:created
+  required field missing: created
+[missing-required]  npcs/gideon-sambleo.md:updated
+  required field missing: updated
+[missing-required]  npcs/gideon-sambleo.md:sources
+  required field missing: sources
+[missing-required]  npcs/irvin-dandrich.md:created
+  required field missing: created
+[missing-required]  npcs/irvin-dandrich.md:updated
+  required field missing: updated
+[missing-required]  npcs/irvin-dandrich.md:sources
+  required field missing: sources
+[missing-required]  npcs/jane-kuban.md:created
+  required field missing: created
+[missing-required]  npcs/jane-kuban.md:updated
+  required field missing: updated
+[missing-required]  npcs/jane-kuban.md:sources
+  required field missing: sources
+[missing-required]  npcs/katrin.md:created
+  required field missing: created
+[missing-required]  npcs/katrin.md:updated
+  required field missing: updated
+[missing-required]  npcs/katrin.md:sources
+  required field missing: sources
+[missing-required]  npcs/laenel.md:created
+  required field missing: created
+[missing-required]  npcs/laenel.md:updated
+  required field missing: updated
+[missing-required]  npcs/laenel.md:sources
+  required field missing: sources
+[missing-required]  npcs/lala-enshein.md:created
+  required field missing: created
+[missing-required]  npcs/lala-enshein.md:updated
+  required field missing: updated
+[missing-required]  npcs/lala-enshein.md:sources
+  required field missing: sources
+[missing-required]  npcs/lander.md:created
+  required field missing: created
+[missing-required]  npcs/lander.md:updated
+  required field missing: updated
+[missing-required]  npcs/lander.md:sources
+  required field missing: sources
+[missing-required]  npcs/ldap.md:created
+  required field missing: created
+[missing-required]  npcs/ldap.md:updated
+  required field missing: updated
+[missing-required]  npcs/ldap.md:sources
+  required field missing: sources
+[missing-required]  npcs/lenivets.md:created
+  required field missing: created
+[missing-required]  npcs/lenivets.md:updated
+  required field missing: updated
+[missing-required]  npcs/lenivets.md:sources
+  required field missing: sources
+[missing-required]  npcs/liana.md:created
+  required field missing: created
+[missing-required]  npcs/liana.md:updated
+  required field missing: updated
+[missing-required]  npcs/liana.md:sources
+  required field missing: sources
+[missing-required]  npcs/linda-chit.md:created
+  required field missing: created
+[missing-required]  npcs/linda-chit.md:updated
+  required field missing: updated
+[missing-required]  npcs/linda-chit.md:sources
+  required field missing: sources
+[missing-required]  npcs/manuel.md:created
+  required field missing: created
+[missing-required]  npcs/manuel.md:updated
+  required field missing: updated
+[missing-required]  npcs/manuel.md:sources
+  required field missing: sources
+[missing-required]  npcs/margarita.md:created
+  required field missing: created
+[missing-required]  npcs/margarita.md:updated
+  required field missing: updated
+[missing-required]  npcs/margarita.md:sources
+  required field missing: sources
+[missing-required]  npcs/mari-klodet.md:created
+  required field missing: created
+[missing-required]  npcs/mari-klodet.md:updated
+  required field missing: updated
+[missing-required]  npcs/mari-klodet.md:sources
+  required field missing: sources
+[missing-required]  npcs/miala.md:created
+  required field missing: created
+[missing-required]  npcs/miala.md:updated
+  required field missing: updated
+[missing-required]  npcs/miala.md:sources
+  required field missing: sources
+[missing-required]  npcs/michael.md:created
+  required field missing: created
+[missing-required]  npcs/michael.md:updated
+  required field missing: updated
+[missing-required]  npcs/michael.md:sources
+  required field missing: sources
+[missing-required]  npcs/rainhard.md:created
+  required field missing: created
+[missing-required]  npcs/rainhard.md:updated
+  required field missing: updated
+[missing-required]  npcs/rainhard.md:sources
+  required field missing: sources
+[missing-required]  npcs/rbak.md:created
+  required field missing: created
+[missing-required]  npcs/rbak.md:updated
+  required field missing: updated
+[missing-required]  npcs/rbak.md:sources
+  required field missing: sources
+[missing-required]  npcs/rouen.md:created
+  required field missing: created
+[missing-required]  npcs/rouen.md:updated
+  required field missing: updated
+[missing-required]  npcs/rouen.md:sources
+  required field missing: sources
+[missing-required]  npcs/sharlotta.md:created
+  required field missing: created
+[missing-required]  npcs/sharlotta.md:updated
+  required field missing: updated
+[missing-required]  npcs/sharlotta.md:sources
+  required field missing: sources
+[missing-required]  npcs/yoza.md:created
+  required field missing: created
+[missing-required]  npcs/yoza.md:updated
+  required field missing: updated
+[missing-required]  npcs/yoza.md:sources
+  required field missing: sources
+[missing-required]  npcs/zhanna-luiza.md:created
+  required field missing: created
+[missing-required]  npcs/zhanna-luiza.md:updated
+  required field missing: updated
+[missing-required]  npcs/zhanna-luiza.md:sources
+  required field missing: sources
+[missing-required]  npcs/zhenevyeva.md:created
+  required field missing: created
+[missing-required]  npcs/zhenevyeva.md:updated
+  required field missing: updated
+[missing-required]  npcs/zhenevyeva.md:sources
+  required field missing: sources
+[missing-required]  npcs/zubastik.md:created
+  required field missing: created
+[missing-required]  npcs/zubastik.md:updated
+  required field missing: updated
+[missing-required]  npcs/zubastik.md:sources
+  required field missing: sources
+[missing-required]  npcs/zyay-otyy-bis.md:created
+  required field missing: created
+[missing-required]  npcs/zyay-otyy-bis.md:updated
+  required field missing: updated
+[missing-required]  npcs/zyay-otyy-bis.md:sources
+  required field missing: sources
+[missing-required]  quests/airship-escape.md:created
+  required field missing: created
+[missing-required]  quests/airship-escape.md:updated
+  required field missing: updated
+[missing-required]  quests/airship-escape.md:sources
+  required field missing: sources
+[missing-required]  quests/airship-escape.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/altar-map-fragments.md:created
+  required field missing: created
+[missing-required]  quests/altar-map-fragments.md:updated
+  required field missing: updated
+[missing-required]  quests/altar-map-fragments.md:sources
+  required field missing: sources
+[missing-required]  quests/altar-map-fragments.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/beekeeper.md:created
+  required field missing: created
+[missing-required]  quests/beekeeper.md:updated
+  required field missing: updated
+[missing-required]  quests/beekeeper.md:sources
+  required field missing: sources
+[missing-required]  quests/beekeeper.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/cure-mummy-rot.md:created
+  required field missing: created
+[missing-required]  quests/cure-mummy-rot.md:updated
+  required field missing: updated
+[missing-required]  quests/cure-mummy-rot.md:sources
+  required field missing: sources
+[missing-required]  quests/cure-mummy-rot.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/dungeon-ruins.md:created
+  required field missing: created
+[missing-required]  quests/dungeon-ruins.md:updated
+  required field missing: updated
+[missing-required]  quests/dungeon-ruins.md:sources
+  required field missing: sources
+[missing-required]  quests/dungeon-ruins.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/find-ilkai.md:created
+  required field missing: created
+[missing-required]  quests/find-ilkai.md:updated
+  required field missing: updated
+[missing-required]  quests/find-ilkai.md:sources
+  required field missing: sources
+[missing-required]  quests/find-magic-academy.md:created
+  required field missing: created
+[missing-required]  quests/find-magic-academy.md:updated
+  required field missing: updated
+[missing-required]  quests/find-magic-academy.md:sources
+  required field missing: sources
+[missing-required]  quests/find-magic-academy.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/find-manuel.md:created
+  required field missing: created
+[missing-required]  quests/find-manuel.md:updated
+  required field missing: updated
+[missing-required]  quests/find-manuel.md:sources
+  required field missing: sources
+[missing-required]  quests/find-manuel.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/gideon-talk.md:created
+  required field missing: created
+[missing-required]  quests/gideon-talk.md:updated
+  required field missing: updated
+[missing-required]  quests/gideon-talk.md:sources
+  required field missing: sources
+[missing-required]  quests/gideon-talk.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/golem-from-temple.md:created
+  required field missing: created
+[missing-required]  quests/golem-from-temple.md:updated
+  required field missing: updated
+[missing-required]  quests/golem-from-temple.md:sources
+  required field missing: sources
+[missing-required]  quests/identify-rings.md:created
+  required field missing: created
+[missing-required]  quests/identify-rings.md:updated
+  required field missing: updated
+[missing-required]  quests/identify-rings.md:sources
+  required field missing: sources
+[missing-required]  quests/identify-rings.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/investigate-eymar.md:created
+  required field missing: created
+[missing-required]  quests/investigate-eymar.md:updated
+  required field missing: updated
+[missing-required]  quests/investigate-eymar.md:sources
+  required field missing: sources
+[missing-required]  quests/investigate-eymar.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/katastras.md:created
+  required field missing: created
+[missing-required]  quests/katastras.md:updated
+  required field missing: updated
+[missing-required]  quests/katastras.md:sources
+  required field missing: sources
+[missing-required]  quests/katastras.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/main-luskan.md:created
+  required field missing: created
+[missing-required]  quests/main-luskan.md:updated
+  required field missing: updated
+[missing-required]  quests/main-luskan.md:sources
+  required field missing: sources
+[missing-required]  quests/main-luskan.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/obelisks-mystery.md:created
+  required field missing: created
+[missing-required]  quests/obelisks-mystery.md:updated
+  required field missing: updated
+[missing-required]  quests/obelisks-mystery.md:sources
+  required field missing: sources
+[missing-required]  quests/obelisks-mystery.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/prizrak-ogon.md:created
+  required field missing: created
+[missing-required]  quests/prizrak-ogon.md:updated
+  required field missing: updated
+[missing-required]  quests/prizrak-ogon.md:sources
+  required field missing: sources
+[missing-required]  quests/prizrak-ogon.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/save-rbak.md:created
+  required field missing: created
+[missing-required]  quests/save-rbak.md:updated
+  required field missing: updated
+[missing-required]  quests/save-rbak.md:sources
+  required field missing: sources
+[missing-required]  quests/save-rbak.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/ship-irlin-forest.md:created
+  required field missing: created
+[missing-required]  quests/ship-irlin-forest.md:updated
+  required field missing: updated
+[missing-required]  quests/ship-irlin-forest.md:sources
+  required field missing: sources
+[missing-required]  quests/ship-irlin-forest.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/statya-irvin.md:created
+  required field missing: created
+[missing-required]  quests/statya-irvin.md:updated
+  required field missing: updated
+[missing-required]  quests/statya-irvin.md:sources
+  required field missing: sources
+[missing-required]  quests/stone-bee.md:created
+  required field missing: created
+[missing-required]  quests/stone-bee.md:updated
+  required field missing: updated
+[missing-required]  quests/stone-bee.md:sources
+  required field missing: sources
+[missing-required]  quests/stone-bee.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/temple-library.md:created
+  required field missing: created
+[missing-required]  quests/temple-library.md:updated
+  required field missing: updated
+[missing-required]  quests/temple-library.md:sources
+  required field missing: sources
+[missing-required]  quests/temple-library.md:giver
+  required field missing for type quest: giver
+[missing-required]  quests/zhdat-zhenu-rouena.md:created
+  required field missing: created
+[missing-required]  quests/zhdat-zhenu-rouena.md:updated
+  required field missing: updated
+[missing-required]  quests/zhdat-zhenu-rouena.md:sources
+  required field missing: sources
+[missing-required]  locations/irlin-forest.md:created
+  required field missing: created
+[missing-required]  locations/irlin-forest.md:updated
+  required field missing: updated
+[missing-required]  locations/irlin-forest.md:sources
+  required field missing: sources
+[missing-required]  locations/irlin-islands.md:created
+  required field missing: created
+[missing-required]  locations/irlin-islands.md:updated
+  required field missing: updated
+[missing-required]  locations/irlin-islands.md:sources
+  required field missing: sources
+[missing-required]  locations/luskan.md:created
+  required field missing: created
+[missing-required]  locations/luskan.md:updated
+  required field missing: updated
+[missing-required]  locations/luskan.md:sources
+  required field missing: sources
+[missing-required]  locations/northern-keller.md:created
+  required field missing: created
+[missing-required]  locations/northern-keller.md:updated
+  required field missing: updated
+[missing-required]  locations/northern-keller.md:sources
+  required field missing: sources
+[missing-required]  locations/ship-geizenberg.md:created
+  required field missing: created
+[missing-required]  locations/ship-geizenberg.md:updated
+  required field missing: updated
+[missing-required]  locations/ship-geizenberg.md:sources
+  required field missing: sources
+[missing-required]  locations/southern-keller.md:created
+  required field missing: created
+[missing-required]  locations/southern-keller.md:updated
+  required field missing: updated
+[missing-required]  locations/southern-keller.md:sources
+  required field missing: sources
+[missing-required]  locations/temple-ilmater.md:created
+  required field missing: created
+[missing-required]  locations/temple-ilmater.md:updated
+  required field missing: updated
+[missing-required]  locations/temple-ilmater.md:sources
+  required field missing: sources
+[missing-required]  sessions/2026-01-06.md:name
+  required field missing: name
+[missing-required]  sessions/2026-01-06.md:slug
+  required field missing: slug
+[missing-required]  sessions/2026-01-06.md:created
+  required field missing: created
+[missing-required]  sessions/2026-01-06.md:updated
+  required field missing: updated
+[missing-required]  sessions/2026-01-06.md:sources
+  required field missing: sources
+[missing-required]  sessions/2026-01-18.md:name
+  required field missing: name
+[missing-required]  sessions/2026-01-18.md:slug
+  required field missing: slug
+[missing-required]  sessions/2026-01-18.md:created
+  required field missing: created
+[missing-required]  sessions/2026-01-18.md:updated
+  required field missing: updated
+[missing-required]  sessions/2026-01-18.md:sources
+  required field missing: sources
+[missing-required]  sessions/2026-02-14.md:name
+  required field missing: name
+[missing-required]  sessions/2026-02-14.md:slug
+  required field missing: slug
+[missing-required]  sessions/2026-02-14.md:created
+  required field missing: created
+[missing-required]  sessions/2026-02-14.md:updated
+  required field missing: updated
+[missing-required]  sessions/2026-02-14.md:sources
+  required field missing: sources
+[missing-required]  sessions/2026-03-07.md:name
+  required field missing: name
+[missing-required]  sessions/2026-03-07.md:slug
+  required field missing: slug
+[missing-required]  sessions/2026-03-07.md:created
+  required field missing: created
+[missing-required]  sessions/2026-03-07.md:updated
+  required field missing: updated
+[missing-required]  sessions/2026-03-07.md:sources
+  required field missing: sources
+[missing-required]  sessions/2026-03-28.md:name
+  required field missing: name
+[missing-required]  sessions/2026-03-28.md:slug
+  required field missing: slug
+[missing-required]  sessions/2026-03-28.md:type
+  required field missing: type
+[missing-required]  sessions/2026-03-28.md:created
+  required field missing: created
+[missing-required]  sessions/2026-03-28.md:updated
+  required field missing: updated
+[missing-required]  sessions/2026-03-28.md:sources
+  required field missing: sources
+[missing-required]  characters/ashan.md:created
+  required field missing: created
+[missing-required]  characters/ashan.md:updated
+  required field missing: updated
+[missing-required]  characters/ashan.md:sources
+  required field missing: sources
+[missing-required]  characters/ashan.md:classes
+  required field missing for type character: classes
+[missing-required]  characters/chad-ridley.md:created
+  required field missing: created
+[missing-required]  characters/chad-ridley.md:updated
+  required field missing: updated
+[missing-required]  characters/chad-ridley.md:sources
+  required field missing: sources
+[missing-required]  characters/chad-ridley.md:classes
+  required field missing for type character: classes
+[missing-required]  characters/dimitrina-speiskaya.md:created
+  required field missing: created
+[missing-required]  characters/dimitrina-speiskaya.md:updated
+  required field missing: updated
+[missing-required]  characters/dimitrina-speiskaya.md:sources
+  required field missing: sources
+[missing-required]  characters/dimitrina-speiskaya.md:classes
+  required field missing for type character: classes
+[missing-required]  characters/ironiya-leonberger.md:created
+  required field missing: created
+[missing-required]  characters/ironiya-leonberger.md:updated
+  required field missing: updated
+[missing-required]  characters/ironiya-leonberger.md:sources
+  required field missing: sources
+[missing-required]  characters/ironiya-leonberger.md:classes
+  required field missing for type character: classes
+[missing-required]  characters/torvin-kamneklyatv.md:created
+  required field missing: created
+[missing-required]  characters/torvin-kamneklyatv.md:updated
+  required field missing: updated
+[missing-required]  characters/torvin-kamneklyatv.md:sources
+  required field missing: sources
+[missing-required]  characters/torvin-kamneklyatv.md:classes
+  required field missing for type character: classes
+[missing-required]  rules/homebrew.md:name
+  required field missing: name
+[missing-required]  rules/homebrew.md:slug
+  required field missing: slug
+[missing-required]  rules/homebrew.md:type
+  required field missing: type
+[missing-required]  rules/homebrew.md:created
+  required field missing: created
+[missing-required]  rules/homebrew.md:updated
+  required field missing: updated
+[missing-required]  rules/homebrew.md:tags
+  required field missing: tags
+[missing-required]  rules/homebrew.md:sources
+  required field missing: sources
+[missing-required]  rules/srd-5e2024-ru.md:name
+  required field missing: name
+[missing-required]  rules/srd-5e2024-ru.md:slug
+  required field missing: slug
+[missing-required]  rules/srd-5e2024-ru.md:type
+  required field missing: type
+[missing-required]  rules/srd-5e2024-ru.md:created
+  required field missing: created
+[missing-required]  rules/srd-5e2024-ru.md:updated
+  required field missing: updated
+[missing-required]  rules/srd-5e2024-ru.md:tags
+  required field missing: tags
+[missing-required]  rules/srd-5e2024-ru.md:sources
+  required field missing: sources
+[missing-required]  rules/srd-5e2024.md:name
+  required field missing: name
+[missing-required]  rules/srd-5e2024.md:slug
+  required field missing: slug
+[missing-required]  rules/srd-5e2024.md:type
+  required field missing: type
+[missing-required]  rules/srd-5e2024.md:created
+  required field missing: created
+[missing-required]  rules/srd-5e2024.md:updated
+  required field missing: updated
+[missing-required]  rules/srd-5e2024.md:tags
+  required field missing: tags
+[missing-required]  rules/srd-5e2024.md:sources
+  required field missing: sources
+[invalid-enum]  npcs/abraham-kelken.md:status
+  status='мёртв (год назад, от старости, 140 лет)' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/babushka-lyubava.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/bastian.md:status
+  status='мёртв' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/berser-trant.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/dimmi.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/enrike-gonzales.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/eymar.md:status
+  status='неизвестен' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/gideon-sambleo.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/irvin-dandrich.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/jane-kuban.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/katrin.md:status
+  status='упокоена (сессия 3, 2026-03-07)' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/katrin.md:relation
+  relation='враждебный' — not in enum; allowed: ['союзник', 'нейтральный', 'подозрительный', 'враг', 'неизвестно']
+[invalid-enum]  npcs/laenel.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/laenel.md:relation
+  relation='неизвестный' — not in enum; allowed: ['союзник', 'нейтральный', 'подозрительный', 'враг', 'неизвестно']
+[invalid-enum]  npcs/lala-enshein.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/lander.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/ldap.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/lenivets.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/liana.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/linda-chit.md:status
+  status='мертва' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/manuel.md:status
+  status='жив (по данным Рбака)' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/manuel.md:relation
+  relation='неизвестный' — not in enum; allowed: ['союзник', 'нейтральный', 'подозрительный', 'враг', 'неизвестно']
+[invalid-enum]  npcs/margarita.md:status
+  status='упокоена (сессия 3, 2026-03-07)' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/margarita.md:relation
+  relation='враждебный' — not in enum; allowed: ['союзник', 'нейтральный', 'подозрительный', 'враг', 'неизвестно']
+[invalid-enum]  npcs/michael.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/rainhard.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/rbak.md:status
+  status='жив (спасён)' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/rouen.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/sharlotta.md:status
+  status='упокоена (сессия 3, 2026-03-07)' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/sharlotta.md:relation
+  relation='враждебный' — not in enum; allowed: ['союзник', 'нейтральный', 'подозрительный', 'враг', 'неизвестно']
+[invalid-enum]  npcs/yoza.md:status
+  status='мёртв (самовзрыв)' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/zhanna-luiza.md:status
+  status='мёртв' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/zhanna-luiza.md:relation
+  relation='враг (был)' — not in enum; allowed: ['союзник', 'нейтральный', 'подозрительный', 'враг', 'неизвестно']
+[invalid-enum]  npcs/zhenevyeva.md:status
+  status='неизвестно (предположительно мертва)' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/zubastik.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  npcs/zubastik.md:relation
+  relation='нейтральный (дружелюбный)' — not in enum; allowed: ['союзник', 'нейтральный', 'подозрительный', 'враг', 'неизвестно']
+[invalid-enum]  npcs/zyay-otyy-bis.md:status
+  status='жив' — not in enum; allowed: ['живой', 'мёртвый', 'пропал', 'неизвестно']
+[invalid-enum]  quests/find-magic-academy.md:status
+  status='частично выполнен' — not in enum; allowed: ['активный', 'выполнен', 'провален', 'заморожен']
+[invalid-enum]  quests/statya-irvin.md:priority
+  priority='СРОЧНО' — not in enum; allowed: ['главный', 'основной', 'побочный', 'срочно']
+[invalid-enum]  locations/irlin-forest.md:status
+  status='частично исследована' — not in enum; allowed: ['исследована', 'частично', 'слышали', 'не были']
+[invalid-enum]  locations/irlin-forest.md:type_loc
+  type_loc='лес' — not in enum; allowed: ['город', 'храм', 'подземелье', 'регион', 'корабль', 'таверна', 'ориентир']
+[invalid-enum]  locations/irlin-islands.md:status
+  status='частично исследована' — not in enum; allowed: ['исследована', 'частично', 'слышали', 'не были']
+[invalid-enum]  locations/irlin-islands.md:type_loc
+  type_loc='архипелаг' — not in enum; allowed: ['город', 'храм', 'подземелье', 'регион', 'корабль', 'таверна', 'ориентир']
+[invalid-enum]  locations/luskan.md:status
+  status='неизвестна' — not in enum; allowed: ['исследована', 'частично', 'слышали', 'не были']
+[invalid-enum]  locations/ship-geizenberg.md:type_loc
+  type_loc='корабль (обломки)' — not in enum; allowed: ['город', 'храм', 'подземелье', 'регион', 'корабль', 'таверна', 'ориентир']
+[invalid-enum]  locations/southern-keller.md:status
+  status='не посещена' — not in enum; allowed: ['исследована', 'частично', 'слышали', 'не были']
+[invalid-enum]  locations/southern-keller.md:type_loc
+  type_loc='остров / руины' — not in enum; allowed: ['город', 'храм', 'подземелье', 'регион', 'корабль', 'таверна', 'ориентир']
+[invalid-enum]  locations/temple-ilmater.md:type_loc
+  type_loc='temple' — not in enum; allowed: ['город', 'храм', 'подземелье', 'регион', 'корабль', 'таверна', 'ориентир']
+[invalid-enum]  characters/ashan.md:status
+  status='активен' — not in enum; allowed: ['healthy', 'wounded', 'cursed', 'dying', 'deceased']
+[invalid-enum]  characters/chad-ridley.md:status
+  status='активен' — not in enum; allowed: ['healthy', 'wounded', 'cursed', 'dying', 'deceased']
+[invalid-enum]  characters/dimitrina-speiskaya.md:status
+  status='активен' — not in enum; allowed: ['healthy', 'wounded', 'cursed', 'dying', 'deceased']
+[invalid-enum]  characters/ironiya-leonberger.md:status
+  status='активен' — not in enum; allowed: ['healthy', 'wounded', 'cursed', 'dying', 'deceased']
+[invalid-enum]  characters/torvin-kamneklyatv.md:status
+  status='активен' — not in enum; allowed: ['healthy', 'wounded', 'cursed', 'dying', 'deceased']
+[broken-ref]  npcs/abraham-kelken.md:first_seen
+  first_seen='Сессия 3 (2026-03-07) — упомянут Роуан' — page does not exist
+[broken-ref]  npcs/alister.md:location
+  location='неизвестно' — page does not exist
+[broken-ref]  npcs/alister.md:first_seen
+  first_seen='Упоминание в записке' — page does not exist
+[broken-ref]  npcs/babushka-lyubava.md:first_seen
+  first_seen='Северный Келлер' — page does not exist
+[broken-ref]  npcs/bastian.md:location
+  location='болота у водопада' — page does not exist
+[broken-ref]  npcs/bastian.md:first_seen
+  first_seen='Сессия 4 (2026-03-07) — через письмо Женевьевы' — page does not exist
+[broken-ref]  npcs/berser-trant.md:first_seen
+  first_seen='Сессия 2 (газета)' — page does not exist
+[broken-ref]  npcs/dimmi.md:first_seen
+  first_seen='Сессия 1 (корабль)' — page does not exist
+[broken-ref]  npcs/enrike-gonzales.md:first_seen
+  first_seen='Сессия 2 (2026-02-14)' — page does not exist
+[broken-ref]  npcs/eymar.md:location
+  location='лаборатория (неизвестная)' — page does not exist
+[broken-ref]  npcs/eymar.md:first_seen
+  first_seen='Сессия 5 (видение Ашен)' — page does not exist
+[broken-ref]  npcs/gideon-sambleo.md:first_seen
+  first_seen='Сессия 2 (18.01.2026) — в храме Ильматера' — page does not exist
+[broken-ref]  npcs/irvin-dandrich.md:first_seen
+  first_seen='Сессия 2 (2026-02-14)' — page does not exist
+[broken-ref]  npcs/jane-kuban.md:first_seen
+  first_seen='Сессия 3 (2026-03-07)' — page does not exist
+[broken-ref]  npcs/katrin.md:location
+  location='northern-keller-ruins' — page does not exist
+[broken-ref]  npcs/katrin.md:first_seen
+  first_seen='Сессия 3 (2026-03-07)' — page does not exist
+[broken-ref]  npcs/laenel.md:first_seen
+  first_seen='Сессия 4 (2026-03-07) — из слуха в таверне' — page does not exist
+[broken-ref]  npcs/lala-enshein.md:first_seen
+  first_seen='Сессия 3 (14.02.2026)' — page does not exist
+[broken-ref]  npcs/lander.md:first_seen
+  first_seen='Сессия 2 (18.01.2026)' — page does not exist
+[broken-ref]  npcs/ldap.md:first_seen
+  first_seen='Сессия 3 (2026-03-07)' — page does not exist
+[broken-ref]  npcs/lenivets.md:location
+  location='все локации' — page does not exist
+[broken-ref]  npcs/liana.md:first_seen
+  first_seen='Сессия 1' — page does not exist
+[broken-ref]  npcs/linda-chit.md:first_seen
+  first_seen='Сессия 3 (2026-03-07) — упомянута Роуан' — page does not exist
+[broken-ref]  npcs/manuel.md:location
+  location='island-boloto' — page does not exist
+[broken-ref]  npcs/manuel.md:first_seen
+  first_seen='Сессия 4 (2026-03-07) — через письмо Женевьевы' — page does not exist
+[broken-ref]  npcs/margarita.md:location
+  location='northern-keller-ruins' — page does not exist
+[broken-ref]  npcs/margarita.md:first_seen
+  first_seen='Сессия 3 (2026-03-07)' — page does not exist
+[broken-ref]  npcs/mari-klodet.md:location
+  location='неизвестно' — page does not exist
+[broken-ref]  npcs/mari-klodet.md:first_seen
+  first_seen='Сессия 2 (2026-02-14) — кольцо из призрака' — page does not exist
+[broken-ref]  npcs/miala.md:first_seen
+  first_seen='Склеп храма' — page does not exist
+[broken-ref]  npcs/michael.md:first_seen
+  first_seen='Сессия 3 (14.02.2026)' — page does not exist
+[broken-ref]  npcs/rainhard.md:first_seen
+  first_seen='Сессия 1 (корабль)' — page does not exist
+[broken-ref]  npcs/rbak.md:first_seen
+  first_seen='Сессия 3 (2026-03-07)' — page does not exist
+[broken-ref]  npcs/rouen.md:first_seen
+  first_seen='Сессия 3 (2026-03-07)' — page does not exist
+[broken-ref]  npcs/sharlotta.md:location
+  location='northern-keller-forest' — page does not exist
+[broken-ref]  npcs/sharlotta.md:first_seen
+  first_seen='Сессия 3 (2026-03-07)' — page does not exist
+[broken-ref]  npcs/yoza.md:first_seen
+  first_seen='Сессия 4 (2026-03-07)' — page does not exist
+[broken-ref]  npcs/zhanna-luiza.md:location
+  location='coast-irlin' — page does not exist
+[broken-ref]  npcs/zhanna-luiza.md:first_seen
+  first_seen='Сессия 2 (2026-02-14)' — page does not exist
+[broken-ref]  npcs/zhenevyeva.md:location
+  location='неизвестно' — page does not exist
+[broken-ref]  npcs/zhenevyeva.md:first_seen
+  first_seen='Сессия 3 (2026-03-07) — письмо найдено у орков' — page does not exist
+[broken-ref]  npcs/zubastik.md:first_seen
+  first_seen='Сессия 3 (2026-03-07)' — page does not exist
+[broken-ref]  npcs/zyay-otyy-bis.md:first_seen
+  first_seen='Сессия 4 (2026-03-07)' — page does not exist
+[broken-ref]  quests/find-ilkai.md:giver
+  giver='Лиана' — page does not exist
+[broken-ref]  quests/golem-from-temple.md:giver
+  giver='Лиана' — page does not exist
+[broken-ref]  quests/statya-irvin.md:giver
+  giver='Ирвин Дандрич' — page does not exist
+[broken-ref]  quests/zhdat-zhenu-rouena.md:giver
+  giver='Майкл' — page does not exist
+─── WARNINGS (291) ─────────────────────────
+[missing-index]  quests/find-magic-academy.md
+  page slug 'find-magic-academy' not found in index.md
+[orphan]  npcs/abraham-kelken.md
+  no inbound references to 'abraham-kelken'
+[orphan]  npcs/alister.md
+  no inbound references to 'alister'
+[orphan]  npcs/babushka-lyubava.md
+  no inbound references to 'babushka-lyubava'
+[orphan]  npcs/bastian.md
+  no inbound references to 'bastian'
+[orphan]  npcs/berser-trant.md
+  no inbound references to 'berser-trant'
+[orphan]  npcs/dimmi.md
+  no inbound references to 'dimmi'
+[orphan]  npcs/enrike-gonzales.md
+  no inbound references to 'enrike-gonzales'
+[orphan]  npcs/eymar.md
+  no inbound references to 'eymar'
+[orphan]  npcs/gideon-sambleo.md
+  no inbound references to 'gideon-sambleo'
+[orphan]  npcs/irvin-dandrich.md
+  no inbound references to 'irvin-dandrich'
+[orphan]  npcs/jane-kuban.md
+  no inbound references to 'jane-kuban'
+[orphan]  npcs/katrin.md
+  no inbound references to 'katrin'
+[orphan]  npcs/laenel.md
+  no inbound references to 'laenel'
+[orphan]  npcs/lala-enshein.md
+  no inbound references to 'lala-enshein'
+[orphan]  npcs/lander.md
+  no inbound references to 'lander'
+[orphan]  npcs/ldap.md
+  no inbound references to 'ldap'
+[orphan]  npcs/lenivets.md
+  no inbound references to 'lenivets'
+[orphan]  npcs/liana.md
+  no inbound references to 'liana'
+[orphan]  npcs/linda-chit.md
+  no inbound references to 'linda-chit'
+[orphan]  npcs/manuel.md
+  no inbound references to 'manuel'
+[orphan]  npcs/margarita.md
+  no inbound references to 'margarita'
+[orphan]  npcs/mari-klodet.md
+  no inbound references to 'mari-klodet'
+[orphan]  npcs/miala.md
+  no inbound references to 'miala'
+[orphan]  npcs/michael.md
+  no inbound references to 'michael'
+[orphan]  npcs/rainhard.md
+  no inbound references to 'rainhard'
+[orphan]  npcs/rbak.md
+  no inbound references to 'rbak'
+[orphan]  npcs/rouen.md
+  no inbound references to 'rouen'
+[orphan]  npcs/sharlotta.md
+  no inbound references to 'sharlotta'
+[orphan]  npcs/yoza.md
+  no inbound references to 'yoza'
+[orphan]  npcs/zhanna-luiza.md
+  no inbound references to 'zhanna-luiza'
+[orphan]  npcs/zhenevyeva.md
+  no inbound references to 'zhenevyeva'
+[orphan]  npcs/zubastik.md
+  no inbound references to 'zubastik'
+[orphan]  npcs/zyay-otyy-bis.md
+  no inbound references to 'zyay-otyy-bis'
+[orphan]  quests/airship-escape.md
+  no inbound references to 'airship-escape'
+[orphan]  quests/altar-map-fragments.md
+  no inbound references to 'altar-map-fragments'
+[orphan]  quests/beekeeper.md
+  no inbound references to 'beekeeper'
+[orphan]  quests/cure-mummy-rot.md
+  no inbound references to 'cure-mummy-rot'
+[orphan]  quests/dungeon-ruins.md
+  no inbound references to 'dungeon-ruins'
+[orphan]  quests/find-ilkai.md
+  no inbound references to 'find-ilkai'
+[orphan]  quests/find-magic-academy.md
+  no inbound references to 'find-magic-academy'
+[orphan]  quests/find-manuel.md
+  no inbound references to 'find-manuel'
+[orphan]  quests/gideon-talk.md
+  no inbound references to 'gideon-talk'
+[orphan]  quests/golem-from-temple.md
+  no inbound references to 'golem-from-temple'
+[orphan]  quests/identify-rings.md
+  no inbound references to 'identify-rings'
+[orphan]  quests/investigate-eymar.md
+  no inbound references to 'investigate-eymar'
+[orphan]  quests/katastras.md
+  no inbound references to 'katastras'
+[orphan]  quests/main-luskan.md
+  no inbound references to 'main-luskan'
+[orphan]  quests/obelisks-mystery.md
+  no inbound references to 'obelisks-mystery'
+[orphan]  quests/prizrak-ogon.md
+  no inbound references to 'prizrak-ogon'
+[orphan]  quests/save-rbak.md
+  no inbound references to 'save-rbak'
+[orphan]  quests/ship-irlin-forest.md
+  no inbound references to 'ship-irlin-forest'
+[orphan]  quests/statya-irvin.md
+  no inbound references to 'statya-irvin'
+[orphan]  quests/stone-bee.md
+  no inbound references to 'stone-bee'
+[orphan]  quests/temple-library.md
+  no inbound references to 'temple-library'
+[orphan]  quests/zhdat-zhenu-rouena.md
+  no inbound references to 'zhdat-zhenu-rouena'
+[orphan]  locations/irlin-islands.md
+  no inbound references to 'irlin-islands'
+[orphan]  locations/luskan.md
+  no inbound references to 'luskan'
+[orphan]  locations/southern-keller.md
+  no inbound references to 'southern-keller'
+[orphan]  rules/homebrew.md
+  no inbound references to ''
+[orphan]  rules/srd-5e2024-ru.md
+  no inbound references to ''
+[orphan]  rules/srd-5e2024.md
+  no inbound references to ''
+[taxonomy]  npcs/abraham-kelken.md:tags
+  tag 'воздушный-шар' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/abraham-kelken.md:tags
+  tag 'профессор' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/abraham-kelken.md:tags
+  tag 'мёртв' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/alister.md:tags
+  tag 'враг' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/alister.md:tags
+  tag 'миала' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/alister.md:tags
+  tag 'записка' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/babushka-lyubava.md:tags
+  tag 'чайная' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/babushka-lyubava.md:tags
+  tag 'торговля' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/babushka-lyubava.md:tags
+  tag 'осы' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/babushka-lyubava.md:tags
+  tag 'подозрительная' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/bastian.md:tags
+  tag 'первая-группа' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/bastian.md:tags
+  tag 'погиб' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/bastian.md:tags
+  tag 'катастрас' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/bastian.md:tags
+  tag 'болота' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/berser-trant.md:tags
+  tag 'культ' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/berser-trant.md:tags
+  tag 'братство-взирающих-очей' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/berser-trant.md:tags
+  tag 'добродетель' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/dimmi.md:tags
+  tag 'гейзенберг' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/dimmi.md:tags
+  tag 'корабль' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/dimmi.md:tags
+  tag 'капитан' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/enrike-gonzales.md:tags
+  tag 'дом-прессы' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/enrike-gonzales.md:tags
+  tag 'журналист' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/enrike-gonzales.md:tags
+  tag 'жертва' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/eymar.md:tags
+  tag 'антагонист' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/eymar.md:tags
+  tag 'лаборатория' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/eymar.md:tags
+  tag 'подозреваемый' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/gideon-sambleo.md:tags
+  tag 'ирлиндский-лес' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/gideon-sambleo.md:tags
+  tag 'ферма' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/gideon-sambleo.md:tags
+  tag 'самблео' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/gideon-sambleo.md:tags
+  tag 'важный' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/irvin-dandrich.md:tags
+  tag 'ирлинский-лес' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/irvin-dandrich.md:tags
+  tag 'ферма-самблео' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/irvin-dandrich.md:tags
+  tag 'торговец-информацией' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/irvin-dandrich.md:tags
+  tag 'квест' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/jane-kuban.md:tags
+  tag 'мэр' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/jane-kuban.md:tags
+  tag 'власть' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/katrin.md:tags
+  tag 'призрак' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/katrin.md:tags
+  tag 'руины' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/katrin.md:tags
+  tag 'кемп-орков' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/katrin.md:tags
+  tag 'первая-группа' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/laenel.md:tags
+  tag 'выставка' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/laenel.md:tags
+  tag 'аукцион' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/laenel.md:tags
+  tag 'слух' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/lala-enshein.md:tags
+  tag 'библиотека' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/lala-enshein.md:tags
+  tag 'любопытная' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/lander.md:tags
+  tag 'защитник' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/lander.md:tags
+  tag 'кракен-выживший' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/ldap.md:tags
+  tag 'голодный-лесник' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/ldap.md:tags
+  tag 'трактирщик' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/lenivets.md:tags
+  tag 'проводник' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/lenivets.md:tags
+  tag 'перемещение' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/lenivets.md:tags
+  tag 'механика' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/lenivets.md:tags
+  tag 'все-локации' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/liana.md:tags
+  tag 'жрица' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/liana.md:tags
+  tag 'ильматер' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/linda-chit.md:tags
+  tag 'академия-магии' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/linda-chit.md:tags
+  tag 'мертва' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/linda-chit.md:tags
+  tag 'группа-приключенцев' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/manuel.md:tags
+  tag 'первая-группа' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/manuel.md:tags
+  tag 'остров-болото' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/manuel.md:tags
+  tag 'письмо-женевьевы' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/margarita.md:tags
+  tag 'призрак' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/margarita.md:tags
+  tag 'руины' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/margarita.md:tags
+  tag 'кемп-орков' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/margarita.md:tags
+  tag 'ментальная-атака' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/margarita.md:tags
+  tag 'первая-группа' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/mari-klodet.md:tags
+  tag 'кольцо' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/mari-klodet.md:tags
+  tag 'призрак' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/mari-klodet.md:tags
+  tag 'побережье' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/miala.md:tags
+  tag 'склеп' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/miala.md:tags
+  tag 'алистер' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/miala.md:tags
+  tag 'камень' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/michael.md:tags
+  tag 'академия-магии' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/michael.md:tags
+  tag 'огненные-ладони' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/rainhard.md:tags
+  tag 'гейзенберг' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/rainhard.md:tags
+  tag 'корабль' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/rbak.md:tags
+  tag 'голодный-лесник' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/rbak.md:tags
+  tag 'исследователь' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/rouen.md:tags
+  tag 'академия-магии' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/rouen.md:tags
+  tag 'беременная' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/rouen.md:tags
+  tag 'электричество' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/sharlotta.md:tags
+  tag 'призрак' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/sharlotta.md:tags
+  tag 'лес' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/sharlotta.md:tags
+  tag 'шершни' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/sharlotta.md:tags
+  tag 'нежить' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/yoza.md:tags
+  tag 'академия' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/yoza.md:tags
+  tag 'ученик' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/yoza.md:tags
+  tag 'арена' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/yoza.md:tags
+  tag 'самовзрыв' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zhanna-luiza.md:tags
+  tag 'побережье' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zhanna-luiza.md:tags
+  tag 'призрак' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zhanna-luiza.md:tags
+  tag 'огненный-круг' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zhanna-luiza.md:tags
+  tag 'выполнен' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zhenevyeva.md:tags
+  tag 'первая-группа' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zhenevyeva.md:tags
+  tag 'письмо' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zhenevyeva.md:tags
+  tag 'катастрас' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zhenevyeva.md:tags
+  tag 'линда-чит' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zubastik.md:tags
+  tag 'мимик' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zubastik.md:tags
+  tag 'питомец' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zubastik.md:tags
+  tag 'роуан-файрмей' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zubastik.md:tags
+  tag 'кресло' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zyay-otyy-bis.md:tags
+  tag 'таверна' not in SCHEMA.md taxonomy
+[taxonomy]  npcs/zyay-otyy-bis.md:tags
+  tag 'братья-бись' not in SCHEMA.md taxonomy
+[taxonomy]  quests/airship-escape.md:tags
+  tag 'воздушный-шар' not in SCHEMA.md taxonomy
+[taxonomy]  quests/airship-escape.md:tags
+  tag 'побег' not in SCHEMA.md taxonomy
+[taxonomy]  quests/airship-escape.md:tags
+  tag 'демиплан' not in SCHEMA.md taxonomy
+[taxonomy]  quests/airship-escape.md:tags
+  tag 'алигары' not in SCHEMA.md taxonomy
+[taxonomy]  quests/altar-map-fragments.md:tags
+  tag 'алтарь' not in SCHEMA.md taxonomy
+[taxonomy]  quests/altar-map-fragments.md:tags
+  tag 'карта' not in SCHEMA.md taxonomy
+[taxonomy]  quests/altar-map-fragments.md:tags
+  tag 'прорицание' not in SCHEMA.md taxonomy
+[taxonomy]  quests/altar-map-fragments.md:tags
+  tag 'катакомбы' not in SCHEMA.md taxonomy
+[taxonomy]  quests/beekeeper.md:tags
+  tag 'бабушка-любава' not in SCHEMA.md taxonomy
+[taxonomy]  quests/beekeeper.md:tags
+  tag 'осы' not in SCHEMA.md taxonomy
+[taxonomy]  quests/beekeeper.md:tags
+  tag 'пасечник' not in SCHEMA.md taxonomy
+[taxonomy]  quests/beekeeper.md:tags
+  tag 'побочный' not in SCHEMA.md taxonomy
+[taxonomy]  quests/cure-mummy-rot.md:tags
+  tag 'проклятие' not in SCHEMA.md taxonomy
+[taxonomy]  quests/cure-mummy-rot.md:tags
+  tag 'торвин' not in SCHEMA.md taxonomy
+[taxonomy]  quests/cure-mummy-rot.md:tags
+  tag 'лиана' not in SCHEMA.md taxonomy
+[taxonomy]  quests/dungeon-ruins.md:tags
+  tag 'руины' not in SCHEMA.md taxonomy
+[taxonomy]  quests/dungeon-ruins.md:tags
+  tag 'кемп-орков' not in SCHEMA.md taxonomy
+[taxonomy]  quests/dungeon-ruins.md:tags
+  tag 'подземелье' not in SCHEMA.md taxonomy
+[taxonomy]  quests/dungeon-ruins.md:tags
+  tag 'катакомбы' not in SCHEMA.md taxonomy
+[taxonomy]  quests/find-ilkai.md:tags
+  tag 'храм' not in SCHEMA.md taxonomy
+[taxonomy]  quests/find-ilkai.md:tags
+  tag 'защитник' not in SCHEMA.md taxonomy
+[taxonomy]  quests/find-magic-academy.md:tags
+  tag 'академия-магии' not in SCHEMA.md taxonomy
+[taxonomy]  quests/find-magic-academy.md:tags
+  tag 'огненные-ладони' not in SCHEMA.md taxonomy
+[taxonomy]  quests/find-magic-academy.md:tags
+  tag 'роуэн' not in SCHEMA.md taxonomy
+[taxonomy]  quests/find-manuel.md:tags
+  tag 'мануэль' not in SCHEMA.md taxonomy
+[taxonomy]  quests/find-manuel.md:tags
+  tag 'остров-болото' not in SCHEMA.md taxonomy
+[taxonomy]  quests/find-manuel.md:tags
+  tag 'первая-группа' not in SCHEMA.md taxonomy
+[taxonomy]  quests/find-manuel.md:tags
+  tag 'женевьева' not in SCHEMA.md taxonomy
+[taxonomy]  quests/gideon-talk.md:tags
+  tag 'ирлиндский-лес' not in SCHEMA.md taxonomy
+[taxonomy]  quests/gideon-talk.md:tags
+  tag 'гидеон' not in SCHEMA.md taxonomy
+[taxonomy]  quests/gideon-talk.md:tags
+  tag 'самблео' not in SCHEMA.md taxonomy
+[taxonomy]  quests/golem-from-temple.md:tags
+  tag 'гомункул' not in SCHEMA.md taxonomy
+[taxonomy]  quests/identify-rings.md:tags
+  tag 'кольца' not in SCHEMA.md taxonomy
+[taxonomy]  quests/identify-rings.md:tags
+  tag 'призраки' not in SCHEMA.md taxonomy
+[taxonomy]  quests/identify-rings.md:tags
+  tag 'семья-файрмей' not in SCHEMA.md taxonomy
+[taxonomy]  quests/identify-rings.md:tags
+  tag 'опознание' not in SCHEMA.md taxonomy
+[taxonomy]  quests/investigate-eymar.md:tags
+  tag 'эймар' not in SCHEMA.md taxonomy
+[taxonomy]  quests/investigate-eymar.md:tags
+  tag 'загадочный-маг' not in SCHEMA.md taxonomy
+[taxonomy]  quests/investigate-eymar.md:tags
+  tag 'амулет' not in SCHEMA.md taxonomy
+[taxonomy]  quests/investigate-eymar.md:tags
+  tag 'лиана' not in SCHEMA.md taxonomy
+[taxonomy]  quests/investigate-eymar.md:tags
+  tag 'демиплан' not in SCHEMA.md taxonomy
+[taxonomy]  quests/katastras.md:tags
+  tag 'катастрас' not in SCHEMA.md taxonomy
+[taxonomy]  quests/katastras.md:tags
+  tag 'болота' not in SCHEMA.md taxonomy
+[taxonomy]  quests/katastras.md:tags
+  tag 'водопад' not in SCHEMA.md taxonomy
+[taxonomy]  quests/katastras.md:tags
+  tag 'первая-группа' not in SCHEMA.md taxonomy
+[taxonomy]  quests/katastras.md:tags
+  tag 'проход' not in SCHEMA.md taxonomy
+[taxonomy]  quests/main-luskan.md:tags
+  tag 'главный-квест' not in SCHEMA.md taxonomy
+[taxonomy]  quests/main-luskan.md:tags
+  tag 'путешествие' not in SCHEMA.md taxonomy
+[taxonomy]  quests/obelisks-mystery.md:tags
+  tag 'мистерия' not in SCHEMA.md taxonomy
+[taxonomy]  quests/prizrak-ogon.md:tags
+  tag 'побережье' not in SCHEMA.md taxonomy
+[taxonomy]  quests/prizrak-ogon.md:tags
+  tag 'призрак' not in SCHEMA.md taxonomy
+[taxonomy]  quests/prizrak-ogon.md:tags
+  tag 'огненный-круг' not in SCHEMA.md taxonomy
+[taxonomy]  quests/save-rbak.md:tags
+  tag 'орки' not in SCHEMA.md taxonomy
+[taxonomy]  quests/save-rbak.md:tags
+  tag 'заброшенная-лесопилка' not in SCHEMA.md taxonomy
+[taxonomy]  quests/save-rbak.md:tags
+  tag 'выкуп' not in SCHEMA.md taxonomy
+[taxonomy]  quests/ship-irlin-forest.md:tags
+  tag 'корабль' not in SCHEMA.md taxonomy
+[taxonomy]  quests/ship-irlin-forest.md:tags
+  tag 'ирлинский-лес' not in SCHEMA.md taxonomy
+[taxonomy]  quests/statya-irvin.md:tags
+  tag 'ирлинский-лес' not in SCHEMA.md taxonomy
+[taxonomy]  quests/statya-irvin.md:tags
+  tag 'горный-лесник' not in SCHEMA.md taxonomy
+[taxonomy]  quests/statya-irvin.md:tags
+  tag 'статья' not in SCHEMA.md taxonomy
+[taxonomy]  quests/statya-irvin.md:tags
+  tag 'берсер-трант' not in SCHEMA.md taxonomy
+[taxonomy]  quests/statya-irvin.md:tags
+  tag 'срочно' not in SCHEMA.md taxonomy
+[taxonomy]  quests/stone-bee.md:tags
+  tag 'камень' not in SCHEMA.md taxonomy
+[taxonomy]  quests/stone-bee.md:tags
+  tag 'пчела' not in SCHEMA.md taxonomy
+[taxonomy]  quests/stone-bee.md:tags
+  tag 'шершень' not in SCHEMA.md taxonomy
+[taxonomy]  quests/stone-bee.md:tags
+  tag 'зарисовка' not in SCHEMA.md taxonomy
+[taxonomy]  quests/temple-library.md:tags
+  tag 'библиотека' not in SCHEMA.md taxonomy
+[taxonomy]  quests/temple-library.md:tags
+  tag 'лала-эншейн' not in SCHEMA.md taxonomy
+[taxonomy]  quests/zhdat-zhenu-rouena.md:tags
+  tag 'академия' not in SCHEMA.md taxonomy
+[taxonomy]  quests/zhdat-zhenu-rouena.md:tags
+  tag 'выход-с-острова' not in SCHEMA.md taxonomy
+[taxonomy]  locations/irlin-forest.md:tags
+  tag 'лес' not in SCHEMA.md taxonomy
+[taxonomy]  locations/irlin-forest.md:tags
+  tag 'ферма-самблео' not in SCHEMA.md taxonomy
+[taxonomy]  locations/irlin-forest.md:tags
+  tag 'природа' not in SCHEMA.md taxonomy
+[taxonomy]  locations/irlin-islands.md:tags
+  tag 'острова' not in SCHEMA.md taxonomy
+[taxonomy]  locations/irlin-islands.md:tags
+  tag 'основная-локация' not in SCHEMA.md taxonomy
+[taxonomy]  locations/luskan.md:tags
+  tag 'цель' not in SCHEMA.md taxonomy
+[taxonomy]  locations/luskan.md:tags
+  tag 'материк' not in SCHEMA.md taxonomy
+[taxonomy]  locations/northern-keller.md:tags
+  tag 'город' not in SCHEMA.md taxonomy
+[taxonomy]  locations/northern-keller.md:tags
+  tag 'город-угасания' not in SCHEMA.md taxonomy
+[taxonomy]  locations/ship-geizenberg.md:tags
+  tag 'корабль' not in SCHEMA.md taxonomy
+[taxonomy]  locations/ship-geizenberg.md:tags
+  tag 'гейзенберг' not in SCHEMA.md taxonomy
+[taxonomy]  locations/ship-geizenberg.md:tags
+  tag 'крушение' not in SCHEMA.md taxonomy
+[taxonomy]  locations/southern-keller.md:tags
+  tag 'остров' not in SCHEMA.md taxonomy
+[taxonomy]  locations/southern-keller.md:tags
+  tag 'руины' not in SCHEMA.md taxonomy
+[taxonomy]  locations/southern-keller.md:tags
+  tag 'академия' not in SCHEMA.md taxonomy
+[taxonomy]  locations/temple-ilmater.md:tags
+  tag 'побережье' not in SCHEMA.md taxonomy
+[taxonomy]  locations/temple-ilmater.md:tags
+  tag 'храм' not in SCHEMA.md taxonomy
+[taxonomy]  locations/temple-ilmater.md:tags
+  tag 'ильматер' not in SCHEMA.md taxonomy
+[taxonomy]  locations/temple-ilmater.md:tags
+  tag 'мистерия' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-01-06.md:tags
+  tag 'ваншот' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-01-06.md:tags
+  tag 'гоблины' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-01-06.md:tags
+  tag 'повозка' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-01-06.md:tags
+  tag 'торговцы' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-01-06.md:tags
+  tag 'ашен' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-01-18.md:tags
+  tag 'корабль' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-01-18.md:tags
+  tag 'кракен' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-01-18.md:tags
+  tag 'острова-ирлин' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-01-18.md:tags
+  tag 'побережье' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-01-18.md:tags
+  tag 'гомункул' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-01-18.md:tags
+  tag 'камень-пчела' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-01-18.md:tags
+  tag 'храм' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-02-14.md:tags
+  tag 'побережье' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-02-14.md:tags
+  tag 'ирлинский-лес' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-02-14.md:tags
+  tag 'призраки' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-02-14.md:tags
+  tag 'арена' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-02-14.md:tags
+  tag 'скандал' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-07.md:tags
+  tag 'роуан-файрмей' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-07.md:tags
+  tag 'воздушный-шар' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-07.md:tags
+  tag 'призраки' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-07.md:tags
+  tag 'маргарита' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-07.md:tags
+  tag 'катрин' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-07.md:tags
+  tag 'подземелье' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-28.md:tags
+  tag 'апгрейд' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-28.md:tags
+  tag 'катакомбы' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-28.md:tags
+  tag 'призраки' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-28.md:tags
+  tag 'мумия' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-28.md:tags
+  tag 'проклятие' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-28.md:tags
+  tag 'лабиринт' not in SCHEMA.md taxonomy
+[taxonomy]  sessions/2026-03-28.md:tags
+  tag 'алтарь' not in SCHEMA.md taxonomy
+[taxonomy]  characters/ashan.md:tags
+  tag 'круг-луны' not in SCHEMA.md taxonomy
+[taxonomy]  characters/chad-ridley.md:tags
+  tag 'книга-заклинаний' not in SCHEMA.md taxonomy
+[taxonomy]  characters/dimitrina-speiskaya.md:tags
+  tag 'волынка' not in SCHEMA.md taxonomy
+[taxonomy]  characters/ironiya-leonberger.md:tags
+  tag 'прорицательница' not in SCHEMA.md taxonomy
+[taxonomy]  characters/ironiya-leonberger.md:tags
+  tag 'ячейки' not in SCHEMA.md taxonomy
+[taxonomy]  characters/torvin-kamneklyatv.md:tags
+  tag 'клятва-мести' not in SCHEMA.md taxonomy
+[taxonomy]  characters/torvin-kamneklyatv.md:tags
+  tag 'орден-каменной-клятвы' not in SCHEMA.md taxonomy
+─── INFO (0) ─────────────────────────
+  (none)
+
+─── Auto-fixable (76) ──────────────────────
+Run `dnd-lint.py --fix` to apply.
+
+Summary: errors=371, warnings=291, info=0
+
+Summary: errors=371, warnings=291, info=0

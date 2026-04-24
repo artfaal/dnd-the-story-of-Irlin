@@ -28,3 +28,23 @@
 - Items: 0
 - Rules: 0
 - Total: 72
+
+## [2026-04-24 10:25] embed | namespace: all
+- new: 1
+- skipped: 78
+- updated: 0
+
+## [2026-04-24 10:26] summary | pre-session
+- last=1
+- full=False
+
+## [2026-04-24 10:36] lint | 371 errors, 291 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
