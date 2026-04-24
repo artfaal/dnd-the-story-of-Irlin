@@ -5,7 +5,7 @@ slug: altar-map-fragments
 status: активный
 priority: основной
 next_session: false
-location: northern-keller-ruins
+location: northern-keller
 tags:
 - алтарь
 - карта

@@ -5,9 +5,9 @@ slug: bastian
 race: Неизвестно
 role: Участник первой группы приключенцев
 status: мёртвый
-location: болота у водопада
+location: irlin-islands
 relation: нейтральный
-first_seen: Сессия 4 (2026-03-07) — через письмо Женевьевы
+first_seen: '2026-03-07'
 tags:
 - первая-группа
 - погиб

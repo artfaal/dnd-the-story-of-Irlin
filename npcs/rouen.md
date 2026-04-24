@@ -7,7 +7,7 @@ role: Жена Майкла. Беременная (9-й месяц).
 status: живой
 location: northern-keller
 relation: нейтральный
-first_seen: Сессия 3 (2026-03-07)
+first_seen: '2026-03-07'
 portrait: assets/npcs/rouan.jpg
 tags:
 - северный-келлер

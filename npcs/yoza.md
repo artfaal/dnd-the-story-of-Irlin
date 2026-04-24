@@ -7,7 +7,7 @@ role: Ученик Академии магии «Огненные ладони»
 status: мёртвый
 location: northern-keller
 relation: нейтральный
-first_seen: Сессия 4 (2026-03-07)
+first_seen: '2026-03-07'
 tags:
 - академия
 - ученик

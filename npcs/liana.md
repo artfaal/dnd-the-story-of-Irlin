@@ -7,7 +7,7 @@ role: Жрица храма Ильматера
 status: живой
 location: temple-ilmater
 relation: союзник
-first_seen: Сессия 1
+first_seen: '2026-01-06'
 tags:
 - храм-ильматера
 - жрица

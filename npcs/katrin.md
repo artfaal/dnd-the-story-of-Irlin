@@ -5,9 +5,9 @@ slug: katrin
 race: Призрак
 role: Призрак из руин (кемп орков)
 status: мёртвый
-location: northern-keller-ruins
+location: northern-keller
 relation: враг
-first_seen: Сессия 3 (2026-03-07)
+first_seen: '2026-03-07'
 portrait: assets/npcs/katrin.jpg
 tags:
 - призрак

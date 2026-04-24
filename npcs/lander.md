@@ -7,7 +7,7 @@ role: Защитник храма Ильматера
 status: живой
 location: temple-ilmater
 relation: союзник
-first_seen: Сессия 2 (18.01.2026)
+first_seen: '2026-01-18'
 tags:
 - храм-ильматера
 - защитник

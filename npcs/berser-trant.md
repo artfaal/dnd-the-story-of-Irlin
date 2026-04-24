@@ -7,7 +7,7 @@ role: Добродетель Северного Келлера
 status: живой
 location: northern-keller
 relation: враг
-first_seen: Сессия 2 (газета)
+first_seen: '2026-01-18'
 tags:
 - северный-келлер
 - культ

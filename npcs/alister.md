@@ -5,9 +5,9 @@ slug: alister
 race: Неизвестно
 role: Жрец (плохой). В саркофаге под храмом Ильматера
 status: неизвестно
-location: неизвестно
+location: northern-keller
 relation: враг
-first_seen: Упоминание в записке
+first_seen: '2026-03-28'
 tags:
 - враг
 - миала

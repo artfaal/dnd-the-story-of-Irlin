@@ -5,7 +5,7 @@ slug: golem-from-temple
 status: заморожен
 found: Сессия 2 (18.01.2026) — на побережье Ирлин
 priority: побочный
-giver: Лиана
+giver: liana
 location: temple-ilmater
 related_npcs:
 - liana

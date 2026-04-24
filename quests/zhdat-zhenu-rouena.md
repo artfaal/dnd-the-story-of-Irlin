@@ -4,7 +4,7 @@ name: Поговорить с Роуан (женой Майкла)
 slug: zhdat-zhenu-rouena
 status: активный
 priority: основной
-giver: Майкл
+giver: michael
 location: northern-keller
 related_npcs:
 - rouen

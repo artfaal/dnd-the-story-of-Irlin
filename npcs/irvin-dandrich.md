@@ -7,7 +7,7 @@ role: Торговец информацией
 status: живой
 location: irlin-forest
 relation: союзник
-first_seen: Сессия 2 (2026-02-14)
+first_seen: '2026-02-14'
 portrait: assets/npcs/irvin-dandrich.jpg
 tags:
 - ирлинский-лес

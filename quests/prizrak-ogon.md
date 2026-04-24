@@ -4,7 +4,7 @@ name: Огненный призрак (Жанна-Луиза)
 slug: prizrak-ogon
 status: выполнен
 priority: побочный
-location: coast-irlin
+location: irlin-islands
 related_npcs:
 - zhanna-luiza
 - margarita

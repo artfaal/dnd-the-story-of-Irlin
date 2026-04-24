@@ -4,7 +4,7 @@ name: Тайна Катастраса
 slug: katastras
 status: активный
 priority: основной
-location: болота у водопада
+location: irlin-islands
 related_npcs:
 - bastian
 - zhenevyeva

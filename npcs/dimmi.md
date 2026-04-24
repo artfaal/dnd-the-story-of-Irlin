@@ -7,7 +7,7 @@ role: Капитан корабля Гейзенберг
 status: живой
 location: ship-geizenberg
 relation: нейтральный
-first_seen: Сессия 1 (корабль)
+first_seen: '2026-01-18'
 tags:
 - гейзенберг
 - корабль

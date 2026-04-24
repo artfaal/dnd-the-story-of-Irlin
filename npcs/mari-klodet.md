@@ -5,9 +5,9 @@ slug: mari-klodet
 race: Неизвестно
 role: Имя выгравировано на кольце
 status: неизвестно
-location: неизвестно
+location: northern-keller
 relation: неизвестно
-first_seen: Сессия 2 (2026-02-14) — кольцо из призрака
+first_seen: '2026-02-14'
 tags:
 - кольцо
 - призрак

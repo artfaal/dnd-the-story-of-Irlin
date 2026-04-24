@@ -4,7 +4,7 @@ name: Найти Илкая
 slug: find-ilkai
 status: выполнен
 priority: основной
-giver: Лиана
+giver: liana
 location: temple-ilmater
 related_npcs:
 - liana

@@ -4,7 +4,7 @@ name: Статья для Ирвина Дандрича
 slug: statya-irvin
 status: выполнен
 priority: срочно
-giver: Ирвин Дандрич
+giver: irvin-dandrich
 location: irlin-forest
 deadline: Завтра (по игровому времени) в 12:00
 related_npcs:

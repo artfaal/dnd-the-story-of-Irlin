@@ -5,9 +5,9 @@ slug: sharlotta
 race: Призрак
 role: Призрак в лесу у Северного Келлера
 status: мёртвый
-location: northern-keller-forest
+location: irlin-forest
 relation: враг
-first_seen: Сессия 3 (2026-03-07)
+first_seen: '2026-03-07'
 portrait: assets/npcs/sharlotta.jpg
 tags:
 - призрак

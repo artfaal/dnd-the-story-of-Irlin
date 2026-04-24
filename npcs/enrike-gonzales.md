@@ -7,7 +7,7 @@ role: Журналист (подставлен и ограблен)
 status: живой
 location: northern-keller
 relation: нейтральный
-first_seen: Сессия 2 (2026-02-14)
+first_seen: '2026-02-14'
 tags:
 - северный-келлер
 - дом-прессы

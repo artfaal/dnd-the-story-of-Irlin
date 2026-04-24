@@ -4,7 +4,7 @@ name: Найти Мануэля (остров Болото)
 slug: find-manuel
 status: активный
 priority: побочный
-location: island-boloto
+location: irlin-islands
 related_npcs:
 - manuel
 - zhenevyeva

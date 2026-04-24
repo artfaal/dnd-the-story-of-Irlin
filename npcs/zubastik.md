@@ -7,7 +7,7 @@ role: Домашний питомец Роуан Файрмей
 status: живой
 location: northern-keller
 relation: союзник
-first_seen: Сессия 3 (2026-03-07)
+first_seen: '2026-03-07'
 tags:
 - мимик
 - питомец

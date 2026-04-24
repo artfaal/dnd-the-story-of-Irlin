@@ -5,7 +5,7 @@ slug: dungeon-ruins
 status: выполнен
 priority: основной
 next_session: false
-location: northern-keller-ruins
+location: northern-keller
 tags:
 - руины
 - кемп-орков

@@ -7,7 +7,7 @@ role: Библиотекарша 2-го этажа храма
 status: живой
 location: temple-ilmater
 relation: нейтральный
-first_seen: Сессия 3 (14.02.2026)
+first_seen: '2026-02-14'
 tags:
 - храм-ильматера
 - библиотека

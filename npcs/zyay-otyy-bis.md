@@ -7,7 +7,7 @@ role: Хозяева постоялого двора «Постоялый дво
 status: живой
 location: northern-keller
 relation: нейтральный
-first_seen: Сессия 4 (2026-03-07)
+first_seen: '2026-03-07'
 tags:
 - северный-келлер
 - таверна

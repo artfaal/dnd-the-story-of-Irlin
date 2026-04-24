@@ -5,7 +5,7 @@ slug: lenivets
 race: Ленивец
 role: Проводник между локациями островов Ирлин
 status: живой
-location: все локации
+location: irlin-islands
 relation: нейтральный
 tags:
 - проводник

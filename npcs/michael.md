@@ -7,7 +7,7 @@ role: Метрдотель А.М. «Огненные ладони»
 status: живой
 location: northern-keller
 relation: нейтральный
-first_seen: Сессия 3 (14.02.2026)
+first_seen: '2026-02-14'
 tags:
 - северный-келлер
 - академия-магии

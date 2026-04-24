@@ -5,9 +5,9 @@ slug: eymar
 race: неизвестно
 role: неизвестно
 status: неизвестно
-location: лаборатория (неизвестная)
+location: northern-keller
 relation: враг
-first_seen: Сессия 5 (видение Ашен)
+first_seen: '2026-03-28'
 tags:
 - антагонист
 - лаборатория

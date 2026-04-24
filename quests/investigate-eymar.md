@@ -5,7 +5,7 @@ slug: investigate-eymar
 status: активный
 priority: основной
 next_session: false
-location: неизвестно
+location: northern-keller
 tags:
 - эймар
 - загадочный-маг

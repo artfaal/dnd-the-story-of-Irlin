@@ -5,9 +5,9 @@ slug: zhenevyeva
 race: неизвестно
 role: Участница первой группы приключенцев
 status: пропал
-location: неизвестно
+location: northern-keller
 relation: нейтральный
-first_seen: Сессия 3 (2026-03-07) — письмо найдено у орков
+first_seen: '2026-03-07'
 tags:
 - первая-группа
 - письмо

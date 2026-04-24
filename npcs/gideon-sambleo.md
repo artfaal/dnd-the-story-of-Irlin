@@ -7,7 +7,7 @@ role: Житель фермы Самблео
 status: живой
 location: irlin-forest
 relation: нейтральный
-first_seen: Сессия 2 (18.01.2026) — в храме Ильматера
+first_seen: '2026-01-18'
 tags:
 - ирлиндский-лес
 - ферма

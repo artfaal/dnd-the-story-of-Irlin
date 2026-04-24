@@ -5,9 +5,9 @@ slug: manuel
 race: Неизвестно
 role: Адресат письма Женевьевы, предположительно из первой группы приключенцев
 status: живой
-location: island-boloto
+location: irlin-islands
 relation: неизвестно
-first_seen: Сессия 4 (2026-03-07) — через письмо Женевьевы
+first_seen: '2026-03-07'
 tags:
 - первая-группа
 - остров-болото

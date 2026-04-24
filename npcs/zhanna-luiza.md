@@ -5,9 +5,9 @@ slug: zhanna-luiza
 race: Призрак (бывший человек?)
 role: Второй призрак на Побережье
 status: мёртвый
-location: coast-irlin
+location: irlin-islands
 relation: враг
-first_seen: Сессия 2 (2026-02-14)
+first_seen: '2026-02-14'
 tags:
 - побережье
 - призрак

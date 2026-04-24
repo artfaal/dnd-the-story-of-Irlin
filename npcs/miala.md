@@ -7,7 +7,6 @@ role: Превращена в камень
 status: неизвестно
 location: temple-ilmater
 relation: нейтральный
-first_seen: Склеп храма
 tags:
 - храм-ильматера
 - склеп
