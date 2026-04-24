@@ -18,6 +18,11 @@ tags:
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
+relations:
+  - to: bandura-miala
+    kind: связан-с
+  - to: musical-instrument-1984
+    kind: связан-с
 open_questions:
   - text: "HP max у Ашен — посмотреть в character sheet"
     category: clarify

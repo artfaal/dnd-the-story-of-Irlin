@@ -14,6 +14,9 @@ tags:
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
+relations:
+  - to: gold-pipe
+    kind: связан-с
 mentions:
 - '2026-01-18'
 ---

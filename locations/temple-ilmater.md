@@ -21,6 +21,11 @@ tags:
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
+relations:
+  - to: bandura-miala
+    kind: связан-с
+  - to: musical-instrument-1984
+    kind: связан-с
 mentions:
 - obelisks-mystery
 - temple-library

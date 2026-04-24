@@ -19,7 +19,16 @@ updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
 mentions:
-- marie-claudette-ring
+- ring-mari-klodet
+relations:
+  - to: ring-mari-klodet
+    kind: связан-с
+  - to: elemental-stone-air
+    kind: связан-с
+  - to: hat-of-vredit
+    kind: связан-с
+  - to: mechanical-canary
+    kind: связан-с
 open_questions:
   - text: "HP max у Ирронии — посмотреть в character sheet"
     category: clarify

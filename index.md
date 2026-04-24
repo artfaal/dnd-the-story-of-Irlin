@@ -1,6 +1,6 @@
 # Index
 
-> Last updated: 2026-04-24 | Total: 76 pages
+> Last updated: 2026-04-24 | Total: 83 pages
 
 ## NPCs (33)
 - [Абрахам Келкен](npcs/abraham-kelken.md) — Профессор. Изобретатель воздушного шара., нейтральный, мёртвый
@@ -87,8 +87,15 @@
 - [Торвин Камнеклятв](characters/torvin-kamneklyatv.md) — Макс, ур.4, паладин
 - [Чад Ридли](characters/chad-ridley.md) — Коля, ур.4, маг
 
-## Items (1)
-- [Мари-Клодетт](items/marie-claudette-ring.md) — artifact, owner: ironiya-leonberger
+## Items (8)
+- [Бандура (Священный символ Миалы)](items/bandura-miala.md) — very-rare, owner: ashan
+- [Инкрустированная золотая трубка](items/gold-pipe.md) — uncommon, owner: torvin-kamneklyatv
+- [Камень элементаля (воздух)](items/elemental-stone-air.md) — uncommon, owner: ironiya-leonberger
+- [Камень элементаля (огонь)](items/elemental-stone-fire.md) — uncommon, owner: torvin-kamneklyatv
+- [Кольцо с гравировкой «Мари-Клодетт»](items/ring-mari-klodet.md) — rare, owner: ironiya-leonberger
+- [Механическая канарейка в гномьей лампе](items/mechanical-canary.md) — uncommon, owner: ironiya-leonberger
+- [Музыкальный инструмент (1984?)](items/musical-instrument-1984.md) — rare, owner: ashan
+- [Шляпа вредителей](items/hat-of-vredit.md) — common, owner: ironiya-leonberger
 
 ## Rules (3)
 - [SRD 5e 2024 (EN)](rules/srd-5e2024.md) — raw

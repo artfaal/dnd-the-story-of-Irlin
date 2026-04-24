@@ -322,6 +322,8 @@ Fields listed here are validated by the linter when present (enum/regex applied)
 - type_item
 - attuned_by
 - notes
+- first_seen
+- last_seen
 <!-- /schema:optional:item -->
 
 <!-- schema:optional:rule -->

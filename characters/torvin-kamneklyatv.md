@@ -21,6 +21,11 @@ tags:
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
+relations:
+  - to: elemental-stone-fire
+    kind: связан-с
+  - to: gold-pipe
+    kind: связан-с
 ---
 
 ## Краткое описание
