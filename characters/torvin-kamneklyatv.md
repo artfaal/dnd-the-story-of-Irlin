@@ -7,6 +7,7 @@ classes:
 - паладин
 subclass: Клятва мести (Oath of Vengeance)
 level: 4
+hp_max: 38
 race: Дворф
 age: 174
 status: cursed

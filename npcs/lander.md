@@ -15,8 +15,6 @@ tags:
 relations:
 - npc: liana
   type: коллега (жрица того же храма)
-- npc: ilkai
-  type: коллега (другой защитник, ушёл)
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []

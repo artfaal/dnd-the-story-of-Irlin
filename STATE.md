@@ -12,13 +12,15 @@ session_next:
 
 ## Партия сейчас
 
-| Персонаж              | Уровень | HP max | Статус     |
-|-----------------------|---------|--------|------------|
-| torvin-kamneklyatv    | 4       | 38     | проклятье  |
-| ashan                 | 4       | TBD    | healthy    |
-| chad-ridley           | 4       | TBD    | healthy    |
-| ironiya-leonberger    | 4       | TBD    | healthy    |
-| dimitrina-speiskaya   | 4       | TBD    | healthy    |
+<!-- BEGIN generated:party — do not edit; run `dnd-sync-state.py` -->
+| Персонаж | Уровень | HP max | Статус |
+|----------|---------|--------|--------|
+| ashan | 4 | TBD | healthy |
+| chad-ridley | 4 | TBD | healthy |
+| dimitrina-speiskaya | 4 | TBD | healthy |
+| ironiya-leonberger | 4 | TBD | healthy |
+| torvin-kamneklyatv | 4 | 38 | cursed |
+<!-- END generated:party -->
 
 ## Активные эффекты / угрозы
 
