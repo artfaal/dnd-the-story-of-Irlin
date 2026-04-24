@@ -12,6 +12,9 @@ tags:
 - храм-ильматера
 - библиотека
 - любопытная
+relations:
+- to: liana
+  kind: коллега
 updated: '2026-04-24'
 created: '2026-04-24'
 sources: []
