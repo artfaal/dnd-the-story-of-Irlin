@@ -7,7 +7,7 @@ classes:
 - колдун
 subclass: null
 subclass_status: tbd
-level: 4
+level: 5
 hp_max: null
 race: Эльф
 status: healthy
@@ -15,7 +15,7 @@ tags:
 - эльф
 - прорицательница
 - ячейки
-updated: '2026-04-24'
+updated: '2026-04-26'
 created: '2026-04-24'
 sources: []
 mentions:

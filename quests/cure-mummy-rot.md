@@ -2,9 +2,9 @@
 type: quest
 name: Снять проклятие Mummy Rot с Торвина
 slug: cure-mummy-rot
-status: активный
+status: выполнен
 priority: основной
-next_session: true
+next_session: false
 location: temple-ilmater
 tags:
 - проклятие
@@ -14,13 +14,14 @@ tags:
 - лиана
 created_session: 5
 created_date: 2026-03-28
-updated: '2026-04-24'
+updated: '2026-04-26'
 created: '2026-04-24'
 sources: []
 giver: torvin-kamneklyatv
 mentions:
 - liana
 - '2026-03-28'
+- '2026-04-26'
 ---
 
 ## Суть
@@ -36,5 +37,5 @@ mentions:
 - [Торвин](../characters/torvin-kamneklyatv.md) — проклят
 - Амулет Лианы → возможно связан с её забывчивостью
 
-## Следующий шаг
-Добраться до храма Ильматера — **приоритет #1 следующей сессии**
+## Итог
+5 июля 1103 года партия добралась до Лианы в храме Ильматера. Торвин отдал 1 алмаз для снятия заклятия/проклятия, Лиана дала 600 душ сдачи и сняла **Mummy Rot**.

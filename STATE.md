@@ -1,11 +1,12 @@
 ---
-updated: 2026-04-24
-date_ingame: "1103 год, день ~47"
-party_location: northern-keller
+updated: 2026-04-26
+date_ingame: "6 июля 1103 года"
+party_location: oligars
 current_focus: main-luskan
 session_next:
   date: TBD
-  focus_quests: [cure-mummy-rot, airship-escape]
+  focus_quests:
+  - airship-escape
 ---
 
 # Состояние кампании — The story of Irlin
@@ -15,22 +16,20 @@ session_next:
 <!-- BEGIN generated:party — do not edit; run `dnd-sync-state.py` -->
 | Имя | slug | Уровень | HP max | Статус |
 |-----|------|---------|--------|--------|
-| Ашен | ashan | 4 | TBD | healthy |
-| Чад Ридли | chad-ridley | 4 | TBD | healthy |
-| Димитрина Спейсская | dimitrina-speiskaya | 4 | TBD | healthy |
-| Иррония Хезер Леонбергер | ironiya-leonberger | 4 | TBD | healthy |
-| Торвин Камнеклятв | torvin-kamneklyatv | 4 | 38 | cursed |
+| Ашен | ashan | 5 | TBD | healthy |
+| Чад Ридли | chad-ridley | 5 | TBD | healthy |
+| Димитрина Спейсская | dimitrina-speiskaya | 5 | TBD | healthy |
+| Иррония Хезер Леонбергер | ironiya-leonberger | 5 | TBD | healthy |
+| Торвин Камнеклятв | torvin-kamneklyatv | 5 | 38 | healthy |
 <!-- END generated:party -->
 
 ## Активные эффекты / угрозы
 
-- **Торвин:** Mummy Rot (проклятие) — не может лечиться, нужен храм Ильматера.
-  Риск: если падёт до 0 HP и не в храме — может умереть окончательно.
+- **Ашен:** после видения/сожжения картины — онемение руки; утром 6 июля мизинец всё ещё нечувствителен и, возможно, слегка посинел.
+- **Торвин:** Mummy Rot снят Лианой в храме Ильматера 5 июля 1103 года.
 
 <!-- BEGIN generated:active_effects — do not edit; run `dnd-sync-state.py` -->
-| Персонаж | Эффект | Связанный квест |
-|----------|--------|-----------------|
-| torvin-kamneklyatv | cursed | cure-mummy-rot |
+(нет активных эффектов)
 <!-- END generated:active_effects -->
 
 ## Главный квест (сейчас)
@@ -39,6 +38,11 @@ session_next:
 
 ## Не забыть в следующей сессии
 
+- Через три дня в полдень встретиться с Гидеоном в храме Ильматера для похода в Южный Келлер.
+- Купить/подтвердить покупку Хлыста Чит перед Южным Келлером.
+- Добрать/подтвердить 10 грибов и вернуться к Олигарам за информацией про шар Абрахама.
+- Решить, что делать с пленным бандитом у Олигаров.
+- Перед следующей сессией прокачать всю партию до 5 уровня (ап получили в конце сессии 2026-04-26).
 - ГМ солгал Дахе во 2-й сессии — в каком моменте?
 - Уточнить механику пояса с душами у Берсера Транта.
 - Проверить: можно ли использовать обелиски для fast-travel между келлерами?

@@ -7,7 +7,7 @@ classes:
 - друид
 subclass: Круг Луны
 subclass_status: chosen
-level: 4
+level: 5
 hp_max: null
 race: Тифлинг (Инфернальный)
 status: healthy
@@ -15,7 +15,7 @@ tags:
 - тифлинг
 - друид
 - круг-луны
-updated: '2026-04-24'
+updated: '2026-04-26'
 created: '2026-04-24'
 sources: []
 relations:

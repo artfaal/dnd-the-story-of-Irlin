@@ -24,4 +24,23 @@
   category: lore
   asked: 2026-04-24
   answer: null
+
+- id: q-lor-003
+  text: "Как точно пишется/произносится слово из видения Макара: Базиличанфредо?"
+  category: clarify
+  asked: 2026-04-26
+  answer: null
+
+- id: q-lor-004
+  text: "Кто именно правил Келлером до/во время Разлома: Джон или Томас Колинс?"
+  category: clarify
+  asked: 2026-04-26
+  answer: null
+
+- id: q-mec-001
+  text: "Работает ли Хлыст Чит под антимагическим дождём Южного Келлера как активация предмета через ячейку, а не как каст?"
+  category: blocker
+  asked: 2026-04-26
+  answer: null
+
 ```

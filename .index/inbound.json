@@ -51,6 +51,7 @@
     "linda-chit",
     "manuel",
     "margarita",
+    "oligars",
     "rbak",
     "rouen",
     "save-rbak",
@@ -58,10 +59,10 @@
     "ship-irlin-forest",
     "statya-irvin",
     "yoza",
+    "zae-ote-bis",
     "zhdat-zhenu-rouena",
     "zhenevyeva",
-    "zubastik",
-    "zyay-otyy-bis"
+    "zubastik"
   ],
   "2026-03-28": [
     "alister",
@@ -71,18 +72,41 @@
     "eymar",
     "investigate-eymar"
   ],
+  "2026-04-26": [
+    "airship-escape",
+    "altar-map-fragments",
+    "bandura-miala",
+    "cure-mummy-rot",
+    "eymar",
+    "find-magic-academy",
+    "gideon-sambleo",
+    "gideon-talk",
+    "golem-from-temple",
+    "investigate-eymar",
+    "irlin-forest",
+    "laenel",
+    "lala-books-southern-keller",
+    "lala-enshein",
+    "liana",
+    "northern-keller",
+    "oligars",
+    "southern-keller",
+    "temple-ilmater"
+  ],
   "abraham-kelken": [
     "2026-03-07"
   ],
   "airship-escape": [
-    "2026-03-07"
+    "2026-03-07",
+    "2026-04-26"
   ],
   "alister": [
     "2026-03-28",
     "miala"
   ],
   "altar-map-fragments": [
-    "2026-03-28"
+    "2026-03-28",
+    "2026-04-26"
   ],
   "ashan": [
     "bandura-miala",
@@ -96,6 +120,7 @@
     "northern-keller"
   ],
   "bandura-miala": [
+    "2026-04-26",
     "ashan",
     "miala",
     "temple-ilmater"
@@ -118,7 +143,7 @@
   ],
   "cure-mummy-rot": [
     "2026-03-28",
-    "torvin-kamneklyatv"
+    "2026-04-26"
   ],
   "dimmi": [
     "2026-01-18",
@@ -142,7 +167,8 @@
     "statya-irvin"
   ],
   "eymar": [
-    "2026-03-28"
+    "2026-03-28",
+    "2026-04-26"
   ],
   "find-ilkai": [
     "2026-02-14",
@@ -150,18 +176,21 @@
     "ring-mari-klodet"
   ],
   "find-magic-academy": [
-    "2026-03-07"
+    "2026-03-07",
+    "2026-04-26"
   ],
   "find-manuel": [
     "2026-03-07"
   ],
   "gideon-sambleo": [
     "2026-01-18",
+    "2026-04-26",
     "gideon-talk",
     "irlin-forest"
   ],
   "gideon-talk": [
     "2026-03-07",
+    "2026-04-26",
     "irlin-forest"
   ],
   "gold-pipe": [
@@ -169,7 +198,8 @@
     "torvin-kamneklyatv"
   ],
   "golem-from-temple": [
-    "2026-02-14"
+    "2026-02-14",
+    "2026-04-26"
   ],
   "hat-of-vredit": [
     "ironiya-leonberger"
@@ -181,9 +211,11 @@
     "2026-03-07"
   ],
   "investigate-eymar": [
-    "2026-03-28"
+    "2026-03-28",
+    "2026-04-26"
   ],
   "irlin-forest": [
+    "2026-04-26",
     "gideon-sambleo",
     "gideon-talk",
     "irvin-dandrich",
@@ -223,10 +255,16 @@
     "2026-03-07"
   ],
   "laenel": [
-    "2026-03-07"
+    "2026-03-07",
+    "2026-04-26"
+  ],
+  "lala-books-southern-keller": [
+    "2026-04-26"
   ],
   "lala-enshein": [
     "2026-02-14",
+    "2026-04-26",
+    "lala-books-southern-keller",
     "liana",
     "temple-ilmater",
     "temple-library"
@@ -248,6 +286,7 @@
   ],
   "liana": [
     "2026-01-06",
+    "2026-04-26",
     "cure-mummy-rot",
     "find-ilkai",
     "golem-from-temple",
@@ -300,6 +339,7 @@
     "temple-ilmater"
   ],
   "northern-keller": [
+    "2026-04-26",
     "abraham-kelken",
     "airship-escape",
     "alister",
@@ -326,14 +366,17 @@
     "save-rbak",
     "stone-bee",
     "yoza",
+    "zae-ote-bis",
     "zhdat-zhenu-rouena",
     "zhenevyeva",
-    "zubastik",
-    "zyay-otyy-bis"
+    "zubastik"
   ],
   "obelisks-mystery": [
     "2026-01-18",
     "temple-ilmater"
+  ],
+  "oligars": [
+    "2026-04-26"
   ],
   "prizrak-ogon": [
     "2026-02-14"
@@ -375,7 +418,9 @@
     "2026-03-07"
   ],
   "southern-keller": [
-    "2026-01-18"
+    "2026-01-18",
+    "2026-04-26",
+    "lala-books-southern-keller"
   ],
   "srd-5e2024": [
     "2026-01-06"
@@ -390,6 +435,7 @@
     "2026-01-18"
   ],
   "temple-ilmater": [
+    "2026-04-26",
     "bandura-miala",
     "cure-mummy-rot",
     "find-ilkai",
@@ -418,6 +464,9 @@
   "yoza": [
     "2026-03-07"
   ],
+  "zae-ote-bis": [
+    "2026-03-07"
+  ],
   "zhanna-luiza": [
     "2026-02-14",
     "prizrak-ogon"
@@ -433,8 +482,5 @@
   "zubastik": [
     "2026-03-07",
     "rouen"
-  ],
-  "zyay-otyy-bis": [
-    "2026-03-07"
   ]
 }

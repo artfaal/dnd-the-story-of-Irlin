@@ -2429,3 +2429,453 @@
 - new: 83
 - skipped: 0
 - updated: 0
+
+## [2026-04-26 17:55] rebuild | index.md
+- NPCs: 33
+- Quests: 22
+- Locations: 7
+- Sessions: 5
+- Characters: 5
+- Items: 8
+- Rules: 3
+- Total: 83
+
+## [2026-04-26 17:55] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-26 18:40] rebuild | index.md
+- NPCs: 35
+- Quests: 23
+- Locations: 8
+- Sessions: 6
+- Characters: 5
+- Items: 9
+- Rules: 4
+- Total: 90
+
+## [2026-04-26 18:40] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-26 18:47] rebuild | index.md
+- NPCs: 34
+- Quests: 23
+- Locations: 8
+- Sessions: 6
+- Characters: 5
+- Items: 9
+- Rules: 4
+- Total: 89
+
+## [2026-04-26 18:47] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-26 18:49] rebuild | index.md
+- NPCs: 34
+- Quests: 23
+- Locations: 8
+- Sessions: 6
+- Characters: 5
+- Items: 9
+- Rules: 4
+- Total: 89
+
+## [2026-04-26 18:49] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-26 18:56] sync-state | state=clean
+- state body drift: False
+- state frontmatter drift: False
+- active_effects drift: False
+- confirmed_rumours drift: False
+- campaign drift: False
+
+## [2026-04-26 18:56] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-26 18:59] sync-state | state=clean
+- state body drift: False
+- state frontmatter drift: False
+- active_effects drift: False
+- confirmed_rumours drift: False
+- campaign drift: False
+
+## [2026-04-26 18:59] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-26 19:02] rebuild | index.md
+- NPCs: 34
+- Quests: 23
+- Locations: 8
+- Sessions: 6
+- Characters: 5
+- Items: 9
+- Rules: 4
+- Total: 89
+
+## [2026-04-26 19:02] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-26 22:44] sync-state | state=updated
+- state body drift: True
+- state frontmatter drift: False
+- active_effects drift: False
+- confirmed_rumours drift: False
+- campaign drift: False
+
+## [2026-04-26 22:44] rebuild | index.md
+- NPCs: 34
+- Quests: 23
+- Locations: 8
+- Sessions: 6
+- Characters: 5
+- Items: 9
+- Rules: 4
+- Total: 89
+
+## [2026-04-26 22:44] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-26 22:50] sync-state | state=clean
+- state body drift: False
+- state frontmatter drift: False
+- active_effects drift: False
+- confirmed_rumours drift: False
+- campaign drift: False
+
+## [2026-04-26 22:50] rebuild | index.md
+- NPCs: 33
+- Quests: 23
+- Locations: 8
+- Sessions: 6
+- Characters: 5
+- Items: 8
+- Rules: 3
+- Total: 86
+
+## [2026-04-26 22:50] note | verify-compile session=2026-04-26 missing=0
+
+## [2026-04-26 22:50] lint | 5 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-26 22:50] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-26 22:50] sync-state | state=clean
+- state body drift: False
+- state frontmatter drift: False
+- active_effects drift: False
+- confirmed_rumours drift: False
+- campaign drift: False
+
+## [2026-04-26 22:50] rebuild | index.md
+- NPCs: 33
+- Quests: 23
+- Locations: 8
+- Sessions: 6
+- Characters: 5
+- Items: 8
+- Rules: 3
+- Total: 86
+
+## [2026-04-26 22:50] note | verify-compile session=2026-04-26 missing=0
+
+## [2026-04-26 22:50] lint | 5 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-04-26 22:51] sync-state | state=clean
+- state body drift: False
+- state frontmatter drift: False
+- active_effects drift: False
+- confirmed_rumours drift: False
+- campaign drift: False
+
+## [2026-04-26 22:51] rebuild | index.md
+- NPCs: 33
+- Quests: 23
+- Locations: 8
+- Sessions: 6
+- Characters: 5
+- Items: 8
+- Rules: 3
+- Total: 86
+
+## [2026-04-26 22:51] note | verify-compile session=2026-04-26 missing=0
+
+## [2026-04-26 22:51] lint | 0 errors, 0 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
