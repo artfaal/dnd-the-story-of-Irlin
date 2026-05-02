@@ -11,3 +11,4 @@ vectors.db-wal
 *.swo
 *~
 .cache/
+raw/sources/*-full.txt

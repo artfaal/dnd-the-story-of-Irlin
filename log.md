@@ -2879,3 +2879,117 @@
 - check rumour-refs
 - check state-drift
 - check campaign-drift
+
+## [2026-05-02 22:30] lint | 16 errors, 21 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-05-02 22:31] lint | 3 errors, 19 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-05-02 22:31] lint | 1 errors, 19 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-05-02 22:31] lint | 0 errors, 19 warnings
+- check missing-required
+- check invalid-type
+- check invalid-enum
+- check broken-ref
+- check missing-index
+- check orphan
+- check taxonomy
+- check temporal
+- check unique-slug
+- check state-refs
+- check stale-focus
+- check unresolved-placeholders
+- check stale-open-question
+- check schema-undeclared-fields
+- check body-slug-mentions
+- check session-mentions-completeness
+- check bidirectional-relations
+- check rumour-reflected
+- check timeline-session-parity
+- check item-from-loot
+- check taxonomy-hygiene
+- check rumour-refs
+- check state-drift
+- check campaign-drift
+
+## [2026-05-02 22:31] rebuild | index.md
+- NPCs: 34
+- Quests: 24
+- Locations: 8
+- Sessions: 7
+- Characters: 5
+- Items: 8
+- Rules: 3
+- Total: 89
